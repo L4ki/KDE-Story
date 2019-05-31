@@ -1,0 +1,2 @@
+# KDE-Story
+Plasma Theme
