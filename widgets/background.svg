@@ -24,8 +24,8 @@
      inkscape:pageopacity="0.58823529"
      inkscape:pageshadow="2"
      inkscape:zoom="3.9999998"
-     inkscape:cx="66.665541"
-     inkscape:cy="8.408315"
+     inkscape:cx="60.194051"
+     inkscape:cy="28.408316"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -538,7 +538,7 @@
          inkscape:connector-curvature="0"
          id="rect4162-90"
          d="m 21.0002,966.36217 0,9.99991 100,0 0,-9.99991 -100,0 z"
-         style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+         style="opacity:1;fill:#005050;fill-opacity:1;fill-rule:evenodd;stroke:none" />
       <path
          d="m 120.99998,966.36218 -99.99998,0 0,-1 99.99998,0 0,1 z"
          id="rect5025-7"
@@ -579,7 +579,7 @@
          inkscape:connector-curvature="0"
          id="rect4162"
          d="m 19.25005,966.36208 c -4.57332,0 -8.25,3.74692 -8.25,8.40757 0,0.5497 0.0585,1.0727 0.15625,1.59234 l 9.84375,0 0,-9.99991 -1.75,0 z"
-         style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+         style="opacity:1;fill:#005050;fill-opacity:1;fill-rule:evenodd;stroke:none" />
       <path
          style="fill:#090909;fill-opacity:1;fill-rule:nonzero;stroke:none"
          d="M 21.000092,965.3622 21,966.36218 c -5.5,0 -10,4.50001 -10,10 l -0.999908,0 c 0,-6.12012 4.883523,-11.01007 11,-10.99998 z"
@@ -603,7 +603,7 @@
          inkscape:connector-curvature="0"
          id="rect4162-9"
          d="m 121.00035,966.36208 0,9.99991 9.84375,0 c 0.0978,-0.51964 0.15625,-1.04264 0.15625,-1.59234 0,-4.66065 -3.67668,-8.40757 -8.25,-8.40757 l -1.75,0 z"
-         style="opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+         style="opacity:1;fill:#005050;fill-opacity:1;fill-rule:evenodd;stroke:none" />
       <path
          style="fill:#090909;fill-opacity:1;fill-rule:nonzero;stroke:none"
          d="M 131.99998,976.36227 131,976.36218 c 0,-5.5 -4.50001,-10 -10,-10 l 0,-0.99991 c 6.12012,0 11.01007,4.88352 10.99998,11 z"
