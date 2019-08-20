@@ -13,3 +13,12 @@ Changelog: 05.08.2019.
 ---------------------
 
 Modified widget: clock.svg
+
+Changelog: 20.08.2019.
+----------------------
+
+Add widget: bar_meter_vertical
+
+Icons added: input.svg, battery.svg
+
+corrected icon: notification.svg
