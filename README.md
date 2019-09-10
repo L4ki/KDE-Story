@@ -22,3 +22,8 @@ Add widget: bar_meter_vertical
 Icons added: input.svg, battery.svg
 
 corrected icon: notification.svg
+
+Changelog: 10.09.2019.
+---------------------
+
+Modified Icon: battery.svg
