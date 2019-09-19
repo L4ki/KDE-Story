@@ -26,4 +26,8 @@ corrected icon: notification.svg
 Changelog: 10.09.2019.
 ---------------------
 
-Modified Icon: battery.svg
+
+Chanelog: 19.09.2019.
+----------------------
+
+Modified widgets: background.svg, busywidget.svg, clock.svg
