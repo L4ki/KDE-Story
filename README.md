@@ -31,3 +31,10 @@ Chanelog: 19.09.2019.
 ----------------------
 
 Modified widgets: background.svg, busywidget.svg, clock.svg
+
+Changelog: 28.09.2019.
+----------------------
+
+Corrected icon: media.svg
+
+Changed widget: scrolbar.svg
