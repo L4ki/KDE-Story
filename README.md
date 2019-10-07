@@ -26,6 +26,8 @@ corrected icon: notification.svg
 Changelog: 10.09.2019.
 ---------------------
 
+Modified Icon: battery.svg
+battery
 
 Chanelog: 19.09.2019.
 ----------------------
@@ -38,3 +40,11 @@ Changelog: 28.09.2019.
 Corrected icon: media.svg
 
 Changed widget: scrolbar.svg
+
+Changelog: 07.10.2019.
+----------------------
+
+Icon correction: applications.svg, bookmarks.svg, computer.svg, start.svg, view.svg
+
+Widgets correction: busywidget.svg, calendar.svg
+
