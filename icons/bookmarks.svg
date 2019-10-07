@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="54"
@@ -27,7 +28,7 @@
      id="namedview12"
      showgrid="false"
      inkscape:zoom="7.5346479"
-     inkscape:cx="-0.44469056"
+     inkscape:cx="17.153021"
      inkscape:cy="15.61834"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -47,6 +48,30 @@
   </metadata>
   <defs
      id="defs3615">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient832">
+      <stop
+         style="stop-color:#008080;stop-opacity:1;"
+         offset="0"
+         id="stop828" />
+      <stop
+         style="stop-color:#008080;stop-opacity:0.306"
+         offset="1"
+         id="stop830" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient822">
+      <stop
+         style="stop-color:#008080;stop-opacity:1;"
+         offset="0"
+         id="stop818" />
+      <stop
+         style="stop-color:#008080;stop-opacity:0.302"
+         offset="1"
+         id="stop820" />
+    </linearGradient>
     <style
        type="text/css"
        id="current-color-scheme">
@@ -81,6 +106,24 @@
         color:#2B74C7;
       }
 </style>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient822"
+       id="linearGradient826"
+       x1="431.49225"
+       y1="530.62384"
+       x2="431.53821"
+       y2="549.20465"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient832"
+       id="linearGradient834"
+       x1="436.67752"
+       y1="521.50952"
+       x2="436.7511"
+       y2="548.84985"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      transform="matrix(1.0000029,0,0,1.000001,-420.71555,-516.79125)"
@@ -94,7 +137,7 @@
        y="2.0000052"
        transform="matrix(0.99999706,0,0,0.99999899,420.71433,524.79072)" />
     <path
-       style="color:#31363b;fill:#008080;fill-opacity:1;stroke:none"
+       style="color:#31363b;fill:url(#linearGradient826);fill-opacity:1;stroke:none"
        d="m 426.71431,529.79072 v 1 13.99999 1 l 4.99999,-2 4.99998,2 v -1 -13.99999 -1 h -9.99997 m 1.2,1.2 h 7.59998 v 13.19999 l -3.79999,-1.6 -3.79999,1.6 v -13.09999"
        id="rect4298"
        class="ColorScheme-Text"
@@ -113,7 +156,7 @@
        y="-7.9999948"
        transform="matrix(0.99999706,0,0,0.99999899,420.71433,524.79072)" />
     <path
-       style="color:#31363b;fill:#008080;fill-opacity:1;stroke:none"
+       style="color:#31363b;fill:url(#linearGradient834);fill-opacity:1;stroke:none"
        d="m 428.71434,520.79071 v 23.99998 l 7.99998,-3.99999 7.99998,3.99999 v -23.99998 z m 1.19997,1.2 h 13.59996 v 20.95698 l -6.79995,-3.357 -6.80001,3.457 z"
        id="path2996"
        class="ColorScheme-Text"
