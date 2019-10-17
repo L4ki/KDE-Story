@@ -52,8 +52,12 @@ Changelog: 17.10.2019.
 ---------------------
 
 Modified dialogs background.svg
+
 Icon changed: window.svg
+
 Added widget: action-overlays.svg
+
 Corrected widget: bar_meter_vertical.svg
+
 Modified widgets: panel-background.svg, tooltip.svg
 
