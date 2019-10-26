@@ -2,6 +2,8 @@
 
 Plasma Theme
 
+Screenshoot: https://www.pling.com/p/1307867/
+
 Changelog: 28.07.2019.
 ----------------------
 
