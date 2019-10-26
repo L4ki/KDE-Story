@@ -61,3 +61,9 @@ Corrected widget: bar_meter_vertical.svg
 
 Modified widgets: panel-background.svg, tooltip.svg
 
+Changelog: 26.10.2019.
+----------------------
+
+Icon added: preferences.svg
+Added widget: listitem.svg
+
