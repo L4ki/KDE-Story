@@ -69,3 +69,12 @@ Changelog: 26.10.2019.
 Icon added: preferences.svg
 Added widget: listitem.svg
 
+Changelog: 06.11.2019.
+----------------------
+
+Added widget: checkmarks.svg
+
+Widgets corrected: tasks.svg, clock.svg
+
+Icon changed: notification.svg
+
