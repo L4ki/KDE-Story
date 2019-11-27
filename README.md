@@ -78,3 +78,7 @@ Widgets corrected: tasks.svg, clock.svg
 
 Icon changed: notification.svg
 
+Changelog: 27.11.2019.
+---------------------
+
+Modified widget: background.svg
