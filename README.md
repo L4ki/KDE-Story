@@ -82,3 +82,8 @@ Changelog: 27.11.2019.
 ---------------------
 
 Modified widget: background.svg
+
+Changelog: 24.12.2019.
+----------------------
+
+Added widgets: actionbutton, arrows
