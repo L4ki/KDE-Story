@@ -87,3 +87,7 @@ Changelog: 24.12.2019.
 ----------------------
 
 Added widgets: actionbutton, arrows
+
+Changelog: 25.01.2020.
+
+Icons added: configure.svg, distribute.svg, list.svg
