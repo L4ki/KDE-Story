@@ -22,7 +22,7 @@
    inkscape:export-xdpi="126"
    inkscape:export-ydpi="126">
   <sodipodi:namedview
-     inkscape:window-height="1033"
+     inkscape:window-height="1028"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.49803922"
@@ -38,16 +38,17 @@
      showgrid="false"
      width="250px"
      height="250px"
-     inkscape:zoom="1.4628907"
-     inkscape:cx="92.529366"
-     inkscape:cy="50.717068"
+     inkscape:zoom="0.73144535"
+     inkscape:cx="567.14673"
+     inkscape:cy="74.036888"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
      inkscape:window-maximized="1"
      inkscape:snap-grids="true"
      inkscape:snap-to-guides="true"
-     inkscape:snap-nodes="true">
+     inkscape:snap-nodes="true"
+     inkscape:lockguides="false">
     <inkscape:grid
        id="grid3914"
        type="xygrid"
@@ -1354,14 +1355,7 @@
           <circle
              transform="matrix(0.7524028,0,0,0.7524028,-18.157202,172.11982)"
              id="path4983"
-             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             cx="221.5"
-             cy="145.5"
-             r="9.5" />
-          <circle
-             style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path4985"
-             transform="matrix(0.7570354,0,0,0.7570354,-19.183348,171.44576)"
+             style="fill:#007a7a;fill-opacity:1;fill-rule:nonzero;stroke:none"
              cx="221.5"
              cy="145.5"
              r="9.5" />
@@ -1391,16 +1385,9 @@
            id="g4993"
            style="fill:#ffffff">
           <circle
-             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             style="fill:#007878;fill-opacity:1;fill-rule:nonzero;stroke:none"
              id="path4995"
              transform="matrix(0.7524028,0,0,0.7524028,-18.157202,172.11982)"
-             cx="221.5"
-             cy="145.5"
-             r="9.5" />
-          <circle
-             transform="matrix(0.7570354,0,0,0.7570354,-19.183348,171.44576)"
-             id="path4997"
-             style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none"
              cx="221.5"
              cy="145.5"
              r="9.5" />
@@ -1429,16 +1416,9 @@
            id="g10356"
            style="fill:#ffffff">
           <circle
-             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             style="fill:#007a7a;fill-opacity:1;fill-rule:nonzero;stroke:none"
              id="path10360"
              transform="matrix(0.7524028,0,0,0.7524028,-18.157202,172.11982)"
-             cx="221.5"
-             cy="145.5"
-             r="9.5" />
-          <circle
-             transform="matrix(0.7570354,0,0,0.7570354,-19.183348,171.44576)"
-             id="path10362"
-             style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none"
              cx="221.5"
              cy="145.5"
              r="9.5" />
@@ -1510,14 +1490,7 @@
           <circle
              transform="matrix(0.7524028,0,0,0.7524028,-18.157202,172.11982)"
              id="path4965"
-             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             cx="221.5"
-             cy="145.5"
-             r="9.5" />
-          <circle
-             style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path4967"
-             transform="matrix(0.7570354,0,0,0.7570354,-19.183348,171.44576)"
+             style="fill:#007878;fill-opacity:1;fill-rule:nonzero;stroke:none"
              cx="221.5"
              cy="145.5"
              r="9.5" />

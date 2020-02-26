@@ -22,8 +22,8 @@
    sodipodi:version="0.32"
    id="svg2">
   <sodipodi:namedview
-     inkscape:window-height="977"
-     inkscape:window-width="1280"
+     inkscape:window-height="1028"
+     inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.47058824"
      guidetolerance="10.0"
@@ -33,9 +33,9 @@
      bordercolor="#666666"
      pagecolor="#ffffff"
      id="base"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="28.676021"
-     inkscape:cy="58.870944"
+     inkscape:zoom="3.125"
+     inkscape:cx="11.994419"
+     inkscape:cy="27.004271"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
@@ -8882,7 +8882,7 @@
        inkscape:connector-curvature="0"
        id="focus-centerd"
        d="m -10.499985,-57.13782 0,40 39.999872,0 0,-40 -39.999872,0 z"
-       style="fill:#008c8c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.39999998;marker:none;visibility:visible;display:inline;overflow:visible"
+       style="fill:#007878;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.39999998;marker:none;visibility:visible;display:inline;overflow:visible"
        inkscape:label="#path7491" />
     <rect
        transform="scale(1,-1)"
@@ -9353,7 +9353,7 @@
      inkscape:connector-curvature="0"
      id="hover-center"
      d="m 14.000032,80.00001 0,40 39.999872,0 0,-40 -39.999872,0 z"
-     style="display:inline;overflow:visible;visibility:visible;opacity:1;fill:#008c8c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.39999998;marker:none"
+     style="display:inline;overflow:visible;visibility:visible;opacity:1;fill:#005050;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.39999998;marker:none"
      inkscape:label="hover-center" />
   <g
      id="hover-topright"

@@ -447,13 +447,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0.58823529"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="977"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
      id="namedview6"
      showgrid="false"
-     inkscape:zoom="5.46875"
-     inkscape:cx="43.382857"
-     inkscape:cy="4.5088691"
+     inkscape:zoom="3.8669902"
+     inkscape:cx="83.21647"
+     inkscape:cy="-20.783034"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -473,7 +473,8 @@
      inkscape:snap-page="false"
      inkscape:snap-center="false"
      inkscape:object-paths="true"
-     inkscape:snap-smooth-nodes="true">
+     inkscape:snap-smooth-nodes="true"
+     inkscape:lockguides="true">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
