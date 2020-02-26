@@ -2,7 +2,7 @@
 
 Plasma Theme
 
-Screenshoot: https://www.pling.com/p/1307867/
+Screenshoot: https://store.kde.org/p/1307855/
 
 Changelog: 28.07.2019.
 ----------------------
