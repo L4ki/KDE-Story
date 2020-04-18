@@ -36,17 +36,21 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1028"
+     inkscape:window-height="1017"
      id="namedview45"
-     showgrid="false"
-     inkscape:zoom="7.375"
-     inkscape:cx="38.269493"
-     inkscape:cy="7.2950121"
+     showgrid="true"
+     inkscape:zoom="10.429825"
+     inkscape:cx="27.453085"
+     inkscape:cy="15.025445"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg43"
-     inkscape:lockguides="true" />
+     inkscape:lockguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid835" />
+  </sodipodi:namedview>
   <defs
      id="defs4">
     <linearGradient
@@ -154,20 +158,8 @@
          id="path24"
          inkscape:connector-curvature="0" />
       <path
-         style="fill:#000000;fill-opacity:1;stroke:#050505;stroke-width:0.98647147;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-         d="M 16.11974,24.321583 16.09331,17.020504"
-         id="path30"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="fill:#000000;fill-opacity:1;stroke:#050505;stroke-width:1.03272164;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-         d="m 18.245715,15.961066 5.51309,0.02349"
-         id="path34"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="fill:#141414;fill-opacity:1;stroke-width:0.75000024"
-         d="m 15.95,13.8 c -1.241476,0 -2.25,1.008523 -2.25,2.25 0,1.241476 1.008524,2.25 2.25,2.25 1.241476,0 2.25,-1.008524 2.25,-2.25 0,-1.241477 -1.008524,-2.25 -2.25,-2.25 z"
+         style="fill:#141414;fill-opacity:1;stroke-width:1.66666627"
+         d="m 15.8,11.4 c -2.758824,0 -5,2.241175 -5,5 0,2.758824 2.241176,5 5,5 2.758824,0 5,-2.241176 5,-5 0,-2.758825 -2.241176,-5 -5,-5 z"
          id="path38"
          inkscape:connector-curvature="0" />
     </g>

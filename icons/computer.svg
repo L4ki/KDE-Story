@@ -24,16 +24,21 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1028"
+     inkscape:window-height="1017"
      id="namedview24"
-     showgrid="false"
-     inkscape:zoom="5.293582"
-     inkscape:cx="-30.482107"
-     inkscape:cy="29.055359"
+     showgrid="true"
+     inkscape:zoom="10.587164"
+     inkscape:cx="42.568415"
+     inkscape:cy="13.117288"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     inkscape:lockguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid854" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -123,36 +128,6 @@
     <style
        id="current-color-scheme"
        type="text/css">
-      .ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#E9E8E8;
-      }
-      .ColorScheme-ViewText {
-        color:#000000;
-      }
-      .ColorScheme-ViewBackground{
-        color:#ffffff;
-      }
-      .ColorScheme-ViewHover {
-        color:#000000;
-      }
-      .ColorScheme-ViewFocus{
-        color:#5a5a5a;
-      }
-      .ColorScheme-ButtonText {
-        color:#000000;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#E9E8E8;
-      }
-      .ColorScheme-ButtonHover {
-        color:#1489ff;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#2B74C7;
-      }
 </style>
     <radialGradient
        inkscape:collect="always"
@@ -232,9 +207,9 @@
        x="385.90479"
        y="516.79803" />
     <path
-       style="color:#31363b;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.62745029"
+       style="color:#31363b;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.88627392"
        class="ColorScheme-Text"
-       d="m 394.03809,526.66468 v 8.78433 l 4.39214,-3e-5 v 1.25485 l -1.25493,5e-5 v 0.62745 h 6.27454 v -0.62745 l -1.25486,-5e-5 v -1.25485 l 4.39212,3e-5 v -8.78433 z m 0.62745,0.62743 h 11.29407 v 6.90201 h -11.29407 z m 4.39214,8.15687 h 2.50982 v 1.25485 h -2.50982 z"
+       d="m 391.63811,524.13134 v 12.40782 l 6.20384,-3e-5 v 1.77254 l -1.77248,5e-5 v 0.88625 h 8.86275 v -0.88625 l -1.77254,-5e-5 v -1.77254 l 6.20391,3e-5 v -12.40782 z m 0.88625,0.88624 h 15.95293 v 9.74903 h -15.95293 z m 6.20387,11.52155 h 3.54517 v 1.77254 h -3.54517 z"
        id="rect7235"
        inkscape:connector-curvature="0" />
   </g>
@@ -249,9 +224,9 @@
        x="245.33333"
        y="1033.6956" />
     <path
-       style="color:#31363b;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.6666562"
+       style="color:#31363b;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.88332945"
        class="ColorScheme-Text"
-       d="m 253.6,1043.1622 v 9.3337 h -0.66667 a 1.3333126,1.3333126 0 0 0 1.33328,1.333 h 10.66651 a 1.3333126,1.3333126 0 0 0 1.33335,-1.333 h -0.66667 v -9.3337 z m 0.66661,0.667 h 10.66651 v 7.9997 h -10.66651 z"
+       d="m 252.35,1041.1621 v 12.3668 h -0.88333 a 1.7666592,1.7666592 0 0 0 1.76664,1.7666 h 14.1333 a 1.7666592,1.7666592 0 0 0 1.76665,-1.7666 h -0.88335 v -12.3668 z m 0.88331,0.8836 h 14.1333 v 10.5998 h -14.1333 z"
        id="rect7296"
        inkscape:connector-curvature="0" />
   </g>
@@ -266,8 +241,8 @@
        id="rect3018"
        style="opacity:1;fill:url(#radialGradient903);fill-opacity:1;stroke:none" />
     <path
-       style="color:#31363b;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.42034379"
-       d="m 394.8881,527.52301 v 8.40195 h 4.62378 v 1.26103 h -1.26103 v 0.42034 h 5.04412 v -0.42034 h -1.26103 v -1.26103 h 4.62378 v -8.40195 z m 0.42034,0.42034 h 10.92894 v 7.14091 h -10.92894 z m 4.62378,7.98161 h 1.68138 v 1.26103 h -1.68138 z"
+       style="color:#31363b;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.62503451"
+       d="m 391.77145,524.07947 v 12.49326 h 6.87531 v 1.8753 h -1.87506 v 0.62494 h 7.50049 v -0.62494 h -1.87525 v -1.8753 h 6.87551 v -12.49326 z m 0.62494,0.62495 h 16.25105 v 10.61829 h -16.25105 z m 6.87555,11.86831 h 2.50002 v 1.8753 h -2.50002 z"
        id="path3020"
        class="ColorScheme-Text"
        inkscape:connector-curvature="0" />
@@ -283,9 +258,9 @@
        id="rect3026"
        style="opacity:1;fill:url(#radialGradient879);fill-opacity:1;stroke:none" />
     <path
-       style="color:#31363b;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.4583275"
+       style="color:#31363b;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.58331603"
        class="ColorScheme-Text"
-       d="m 253.49165,1043.4123 v 8.7083 h -0.45831 v 0.4581 c 1e-5,0.5065 0.41041,0.9169 0.91667,0.9169 h 11.91649 c 0.50624,0 0.91668,-0.4104 0.91668,-0.9169 v -0.4581 h -0.45834 v -8.7083 z m 0.45836,0.4583 h 11.91649 v 7.7919 h -11.91649 z m -0.45836,8.7081 h 12.83319 c 0,0.2533 -0.20519,0.4588 -0.45834,0.4588 h -11.91649 c -0.25312,0 -0.45836,-0.2055 -0.45836,-0.4588 z"
+       d="m 251.59996,1041.5789 v 11.0833 h -0.58331 v 0.5833 c 1e-5,0.6445 0.5223,1.1667 1.16665,1.1667 h 15.16615 c 0.64436,0 1.16672,-0.5222 1.16672,-1.1667 v -0.5833 h -0.58336 v -11.0833 z m 0.58334,0.5834 h 15.16615 v 9.9166 H 252.1833 Z m -0.58334,11.0832 h 16.33285 c 0,0.3223 -0.26112,0.5834 -0.58336,0.5834 H 252.1833 c -0.3222,0 -0.58334,-0.2611 -0.58334,-0.5834 z"
        id="path3028"
        inkscape:connector-curvature="0" />
   </g>
@@ -301,8 +276,8 @@
        y="516.79803" />
     <path
        id="path3036"
-       style="color:#31363b;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37513182"
-       d="m 397.32471,535.3699 h 5.50582 v 0.69115 h -5.50582 z m 1.74868,-0.6853 h 2.0007 v 0.68529 h -2.0007 z m -3.81384,-6.87937 v 6.87936 h 9.62837 v -6.87936 z m 0.68871,0.68532 8.25872,10e-6 v 4.81758 h -8.25872 z"
+       style="color:#31363b;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.74193162"
+       d="m 394.94079,537.99638 h 10.88933 v 1.36699 h -10.88933 z m 3.45854,-1.35542 h 3.95695 v 1.35541 h -3.95695 z m -7.54288,-13.60577 v 13.60576 h 19.04275 v -13.60576 z m 1.36197,1.35543 16.33405,10e-6 v 9.52795 h -16.33405 z"
        class="ColorScheme-Text"
        inkscape:connector-curvature="0" />
   </g>
@@ -319,8 +294,8 @@
     <path
        class="ColorScheme-Text"
        id="path3044"
-       d="m 255.16551,1045.6124 v 6.4172 h -1.86637 c 0,0.9998 1.20833,1.8328 1.20833,1.8328 h 10.33322 c 0,0 1.20829,-0.833 1.20829,-1.8328 h -1.7169 v -6.4172 z m 0.91669,0.9168 h 7.33325 v 4.5833 h -7.33325 z"
-       style="color:#31363b;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.49999511"
+       d="m 252.71903,1041.9456 v 9.9823 h -2.90322 c 0,1.5555 1.87957,2.851 1.87957,2.851 h 16.07394 c 0,0 1.87953,-1.2955 1.87953,-2.851 h -2.67068 v -9.9823 z m 1.42601,1.426 h 11.40724 v 7.1299 h -11.40724 z"
+       style="color:#31363b;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.77776939"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

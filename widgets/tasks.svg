@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="124.02693"
-     inkscape:cy="76.542074"
+     inkscape:zoom="2.8284272"
+     inkscape:cx="102.72755"
+     inkscape:cy="86.371762"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2803,11 +2803,11 @@
        inkscape:connector-curvature="0"
        id="minimized-center"
        d="m 312,498.36218 124,0 0,-14 -124,0 0,14 z"
-       style="opacity:0.2;fill:#009696;fill-opacity:1;stroke:none" />
+       style="opacity:0.1;fill:#009696;fill-opacity:1;stroke:none" />
     <g
        transform="translate(0,139)"
        id="minimized-bottom"
-       style="opacity:0.2;fill:#005264;fill-opacity:1">
+       style="opacity:0.1;fill:#005264;fill-opacity:1">
       <path
          inkscape:connector-curvature="0"
          style="opacity:0.01;fill:#005264;fill-opacity:1;stroke:none"
@@ -2833,7 +2833,7 @@
     <g
        id="minimized-top"
        transform="translate(0,140)"
-       style="opacity:0.2;fill:#005264;fill-opacity:1">
+       style="opacity:0.1;fill:#005264;fill-opacity:1">
       <path
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
@@ -2872,7 +2872,7 @@
        inkscape:label="#hover-topright"
        id="minimized-topright"
        transform="translate(-1,140)"
-       style="opacity:0.2;fill:#005264;fill-opacity:1">
+       style="opacity:0.1;fill:#005264;fill-opacity:1">
       <path
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccc"
@@ -2920,7 +2920,7 @@
        inkscape:label="#hover-right"
        id="minimized-right"
        transform="translate(-1,139)"
-       style="opacity:0.2;fill:#005264;fill-opacity:1">
+       style="opacity:0.1;fill:#005264;fill-opacity:1">
       <path
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc"
@@ -2950,7 +2950,7 @@
     <g
        transform="translate(-1,139)"
        id="minimized-bottomright"
-       style="opacity:0.2;fill:#005264;fill-opacity:1">
+       style="opacity:0.1;fill:#005264;fill-opacity:1">
       <path
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccccc"
@@ -2988,7 +2988,7 @@
     <g
        transform="translate(-1,140)"
        id="minimized-topleft"
-       style="opacity:0.2;fill:#005264;fill-opacity:1">
+       style="opacity:0.1;fill:#005264;fill-opacity:1">
       <path
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccc"
@@ -3035,7 +3035,7 @@
     <g
        transform="translate(-1,139)"
        id="minimized-bottomleft"
-       style="opacity:0.2;fill:#005264;fill-opacity:1">
+       style="opacity:0.1;fill:#005264;fill-opacity:1">
       <path
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccccc"
@@ -3073,7 +3073,7 @@
     <g
        transform="translate(-1,139)"
        id="minimized-left"
-       style="opacity:0.2;fill:#005264;fill-opacity:1">
+       style="opacity:0.1;fill:#005264;fill-opacity:1">
       <path
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc"

@@ -26,25 +26,26 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1270"
-     inkscape:window-height="954"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
      id="namedview28"
      showgrid="false"
-     inkscape:zoom="6.0045814"
-     inkscape:cx="12.823593"
-     inkscape:cy="36.956912"
+     inkscape:zoom="3.0022907"
+     inkscape:cx="135.40948"
+     inkscape:cy="41.70977"
      inkscape:current-layer="svg7080"
      inkscape:pagecheckerboard="false"
      inkscape:window-x="0"
-     inkscape:window-y="10"
-     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      fit-margin-top="5"
      fit-margin-left="5"
      fit-margin-right="5"
      fit-margin-bottom="5"
      showguides="true"
-     inkscape:guide-bbox="true" />
+     inkscape:guide-bbox="true"
+     inkscape:lockguides="true" />
   <defs
      id="defs7082">
     <linearGradient
@@ -58,50 +59,6 @@
     <style
        type="text/css"
        id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#41363b;
-        stop-color:#41363b;
-      }
-      .ColorScheme-Background {
-        color:#eff0f1;
-        stop-color:#eff0f1;
-      }
-      .ColorScheme-Highlight {
-        color:#3daee9;
-        stop-color:#3daee9;
-      }
-      .ColorScheme-ViewText {
-        
-        stop-
-      }
-      .ColorScheme-ViewBackground {
-        color:#fcfcfc;
-        stop-color:#fcfcfc;
-      }
-      .ColorScheme-ViewHover {
-        color:#93cee9;
-        stop-color:#93cee9;
-      }
-      .ColorScheme-ViewFocus{
-        color:#3daee9;
-        stop-color:#3daee9;
-      }
-      .ColorScheme-ButtonText {
-        
-        stop-
-      }
-      .ColorScheme-ButtonBackground {
-        color:#eff0f1;
-        stop-color:#eff0f1;
-      }
-      .ColorScheme-ButtonHover {
-        color:#93cee9;
-        stop-color:#93cee9;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#3daee9;
-        stop-color:#3daee9;
-      }
       </style>
     <linearGradient
        id="fill"

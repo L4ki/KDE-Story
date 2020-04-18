@@ -18,7 +18,6 @@
    version="1.0"
    sodipodi:docname="clock.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
-   inkscape:export-filename="/home/pinheiro/Desktop/clokbaseshadow.png"
    inkscape:export-xdpi="126"
    inkscape:export-ydpi="126">
   <sodipodi:namedview
@@ -39,7 +38,7 @@
      width="250px"
      height="250px"
      inkscape:zoom="0.73144535"
-     inkscape:cx="567.14673"
+     inkscape:cx="321.7422"
      inkscape:cy="74.036888"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -48,7 +47,7 @@
      inkscape:snap-grids="true"
      inkscape:snap-to-guides="true"
      inkscape:snap-nodes="true"
-     inkscape:lockguides="false">
+     inkscape:lockguides="true">
     <inkscape:grid
        id="grid3914"
        type="xygrid"

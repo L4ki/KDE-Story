@@ -24,17 +24,22 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1028"
+     inkscape:window-height="1017"
      id="namedview12"
-     showgrid="false"
+     showgrid="true"
      inkscape:zoom="7.5346479"
-     inkscape:cx="-30.493532"
-     inkscape:cy="10.309532"
+     inkscape:cx="38.143167"
+     inkscape:cy="17.865951"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3613"
-     showguides="false" />
+     showguides="false"
+     inkscape:lockguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid823" />
+  </sodipodi:namedview>
   <metadata
      id="metadata13">
     <rdf:RDF>
@@ -64,36 +69,6 @@
     <style
        type="text/css"
        id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#E9E8E8;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#ffffff;
-      }
-      .ColorScheme-ViewHover {
-        color:#000000;
-      }
-      .ColorScheme-ViewFocus{
-        color:#5a5a5a;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#E9E8E8;
-      }
-      .ColorScheme-ButtonHover {
-        color:#1489ff;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#2B74C7;
-      }
 </style>
     <radialGradient
        inkscape:collect="always"
@@ -128,8 +103,8 @@
        y="2.0000052"
        transform="matrix(0.99999706,0,0,0.99999899,420.71433,524.79072)" />
     <path
-       style="color:#31363b;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.62499982;opacity:1"
-       d="m 428.41431,533.19071 v 0.625 8.74999 0.625 l 3.12499,-1.25 3.12499,1.25 v -0.625 -8.74999 -0.625 h -6.24998 m 0.75,0.75 h 4.74998 v 8.24999 l -2.37499,-1 -2.37499,1 v -8.1875"
+       style="color:#31363b;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75000006"
+       d="m 427.91431,532.39072 v 0.75 10.49999 0.75 l 3.74999,-1.5 3.74999,1.5 v -0.75 -10.49999 -0.75 h -7.49998 m 0.9,0.9 h 5.69998 v 9.89999 l -2.84999,-1.2 -2.84999,1.2 v -9.82507"
        id="rect4298"
        class="ColorScheme-Text"
        inkscape:connector-curvature="0"
@@ -147,8 +122,8 @@
        y="-7.9999948"
        transform="matrix(0.99999706,0,0,0.99999899,420.71433,524.79072)" />
     <path
-       style="color:#31363b;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.58333337"
-       d="m 431.6143,526.6907 v 13.99999 l 4.66663,-2.33335 4.66668,2.33335 V 526.6907 Z m 0.69997,0.7 h 7.93333 v 12.22491 l -3.96667,-1.95828 -3.96666,2.01664 z"
+       style="color:#31363b;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.74999923"
+       d="m 430.31431,523.79071 v 17.99998 l 5.99988,-3.0001 6.00014,3.0001 v -17.99998 z m 0.89997,0.9 h 10.20004 v 15.7177 l -5.10013,-2.51783 -5.09991,2.59299 z"
        id="path2996"
        class="ColorScheme-Text"
        inkscape:connector-curvature="0"

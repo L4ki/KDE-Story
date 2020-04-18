@@ -24,16 +24,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1028"
+     inkscape:window-height="1017"
      id="namedview12"
-     showgrid="false"
-     inkscape:zoom="14.624742"
-     inkscape:cx="16.631331"
-     inkscape:cy="8.5327541"
+     showgrid="true"
+     inkscape:zoom="7.312371"
+     inkscape:cx="5.3715534"
+     inkscape:cy="13.21828"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg3613">
+     inkscape:current-layer="svg3613"
+     inkscape:lockguides="true">
     <inkscape:grid
        type="xygrid"
        id="grid834" />
@@ -79,35 +80,6 @@
     <style
        type="text/css"
        id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#31363b;
-      }
-      .ColorScheme-Background{
-        color:#E9E8E8;
-      }
-      .ColorScheme-ViewText {
-        color:#31363b;
-      }
-      .ColorScheme-ViewBackground{
-        color:#ffffff;
-      }
-      .ColorScheme-ViewHover {
-        color:#000000;
-      }
-      .ColorScheme-ViewFocus{
-        color:#5a5a5a;
-      }
-      .ColorScheme-ButtonText {
-        color:#31363b;
-      }
-      .ColorScheme-ButtonBackground{
-        color:#E9E8E8;
-      }
-      .ColorScheme-ButtonHover {
-        color:#1489ff;
-      }
-      .ColorScheme-ButtonFocus{
-        color:#2B74C7;
       }
 </style>
     <radialGradient
@@ -143,8 +115,8 @@
        y="2.0000052"
        transform="matrix(0.99999706,0,0,0.99999899,420.71433,524.79072)" />
     <path
-       style="color:#31363b;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.62500018"
-       d="m 426.31431,532.79072 v 4.37499 h 4.37499 v -4.37499 z m 5.62499,0 v 4.37499 h 4.37499 v -4.37499 z m -4.99999,0.625 h 3.12499 v 3.12499 h -3.12499 z m 5.62498,0 h 3.125 v 3.12499 h -3.125 z m -6.24998,5 v 4.37499 h 4.37499 v -4.37499 z m 5.62499,0 v 4.37499 h 0.62499 3.125 0.625 v -0.625 -3.12499 -0.625 h -0.625 -3.125 z m -4.99999,0.625 h 3.12499 v 3.12499 h -3.12499 z m 5.62498,0 h 3.125 v 3.12499 h -3.125 z"
+       style="color:#31363b;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.7500003"
+       d="m 425.81432,531.79072 v 5.24999 h 5.24999 v -5.24999 z m 6.74999,0 v 5.24999 h 5.24999 v -5.24999 z m -5.99999,0.75 h 3.74999 v 3.74999 h -3.74999 z m 6.74998,0 h 3.75 v 3.74999 h -3.75 z m -7.49998,6 v 5.24999 h 5.24999 v -5.24999 z m 6.74999,0 v 5.24999 h 0.74999 3.75 0.75 v -0.75 -3.74999 -0.75 h -0.75 -3.75 z m -5.99999,0.75 h 3.74999 v 3.74999 h -3.74999 z m 6.74998,0 h 3.75 v 3.74999 h -3.75 z"
        id="rect4298"
        class="ColorScheme-Text"
        inkscape:connector-curvature="0" />
@@ -161,8 +133,8 @@
        y="-7.9999948"
        transform="matrix(0.99999706,0,0,0.99999899,420.71433,524.79072)" />
     <path
-       style="color:#31363b;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.58333433"
-       d="m 429.51431,526.6907 v 5.83323 l 5.83321,1e-5 v -5.83322 z m 8.16669,2e-5 v 5.83322 l 5.83326,-1e-5 v -5.83323 z m -7.58346,0.58322 h 4.66675 v 4.66673 h -4.66675 z m 8.16673,0 h 4.66672 v 4.66673 h -4.66672 z m -8.74996,7.58349 v 5.83324 l 5.83321,2e-5 v -5.83324 z m 8.16669,2e-5 v 5.83324 l 1.16653,-2e-5 h 3.49999 1.16674 v -1.16674 -3.49999 -1.16651 h -1.16674 -3.49999 z m -7.58346,0.58322 h 4.66675 v 4.66676 h -4.66675 z m 8.16673,0 h 4.66672 v 4.66676 h -4.66672 z"
+       style="color:#31363b;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75000101"
+       d="m 427.71431,523.89071 v 7.49989 l 7.49989,1e-5 v -7.49988 z m 10.50002,2e-5 v 7.49988 l 7.49992,-1e-5 v -7.49989 z m -9.75009,0.74988 h 6.00005 v 6.00006 h -6.00005 z m 10.50003,0 h 6.00005 v 6.00006 h -6.00005 z m -11.24996,9.75013 v 7.49993 l 7.49989,2e-5 v -7.49992 z m 10.50002,3e-5 v 7.49992 l 1.49988,-2e-5 h 4.49999 1.50005 v -1.50004 -4.50002 -1.49987 h -1.50005 -4.49999 z m -9.75009,0.7499 h 6.00005 v 6.00006 h -6.00005 z m 10.50003,0 h 6.00005 v 6.00006 h -6.00005 z"
        id="path2996"
        class="ColorScheme-Text"
        inkscape:connector-curvature="0" />

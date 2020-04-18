@@ -18,7 +18,6 @@
    version="1.0"
    sodipodi:docname="calendar.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:export-filename="/home/pinheiro/Documents/pics/estilo/plasma/basetext2part.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <sodipodi:namedview
@@ -28,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="22.900902"
-     inkscape:cy="15.894148"
+     inkscape:zoom="5.656854"
+     inkscape:cx="56.113064"
+     inkscape:cy="2.5862386"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:document-units="px"
@@ -49,7 +48,7 @@
      inkscape:snap-nodes="true"
      inkscape:snap-grids="true"
      inkscape:snap-to-guides="true"
-     inkscape:lockguides="false">
+     inkscape:lockguides="true">
     <inkscape:grid
        type="xygrid"
        id="grid7332"
