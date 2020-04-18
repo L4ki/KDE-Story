@@ -98,4 +98,11 @@ Changelog: 26.02.2020.
 
 Redesigned Theme
 
+Changelog: 18.04.2020.
+----------------------
+
+Icon correction: applications.svg, bookmarks.svg, computer.svg, view.svg
+
+Widget correction: tasks.svg
+
 
