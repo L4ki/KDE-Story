@@ -105,4 +105,13 @@ Icon correction: applications.svg, bookmarks.svg, computer.svg, view.svg
 
 Widget correction: tasks.svg
 
+Changelog: 12.06.2020.
+---------------------
+
+Icon correction: start.svg, window.svg, media.svg
+
+Correction widgets: background.svg, tabbar.svg
+
+
+
 
