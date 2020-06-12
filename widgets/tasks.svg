@@ -19,18 +19,18 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
+     bordercolor="#000000"
+     borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284272"
-     inkscape:cx="102.72755"
-     inkscape:cy="86.371762"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="65.926716"
+     inkscape:cy="53.864235"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1028"
+     inkscape:window-height="1017"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -41,7 +41,7 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     showborder="false"
+     showborder="true"
      inkscape:showpageshadow="false"
      showguides="true"
      inkscape:lockguides="true">
@@ -2516,7 +2516,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2547,7 +2547,7 @@
        height="5"
        width="5"
        id="hint-stretch-borders"
-       style="fill:#008080;fill-opacity:1;stroke:none" />
+       style="fill:#008080;fill-opacity:1;stroke:none;opacity:0.01" />
     <g
        id="focus-bottom"
        transform="translate(0,1)">

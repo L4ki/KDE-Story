@@ -36,11 +36,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1028"
+     inkscape:window-height="1017"
      id="namedview133"
      showgrid="false"
      inkscape:zoom="4.5179545"
-     inkscape:cx="83.101507"
+     inkscape:cx="43.371138"
      inkscape:cy="49.666622"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -219,9 +219,9 @@
        y="29.334213"
        rx="11.057198"
        ry="7.999999"
-       style="fill:#006a80;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17564857" />
+       style="fill:#006a80;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17564857;opacity:0.01" />
     <rect
-       style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14423347"
+       style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14423347;opacity:0.01"
        id="hint-tile-center"
        width="1.7220814"
        height="1.2100462"
