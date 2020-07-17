@@ -112,6 +112,12 @@ Icon correction: start.svg, window.svg, media.svg
 
 Correction widgets: background.svg, tabbar.svg
 
+Changelog: 18.07.2020.
+----------------------
+
+Correction widgets: background.svg, checkmarks.svg, plasmoidheading.svg, viewitem.svg
+
+Icon correction: system.svg
 
 
 
