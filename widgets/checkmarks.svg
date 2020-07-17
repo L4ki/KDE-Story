@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -9,37 +7,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.0"
-   width="16"
-   height="16"
-   id="svg2"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    sodipodi:docname="checkmarks.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1028"
-     id="namedview12"
-     showgrid="false"
-     inkscape:zoom="7.375"
-     inkscape:cx="59.531251"
-     inkscape:cy="6.8985832"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2"
-     inkscape:lockguides="true" />
-  <defs
-     id="defs4" />
+   id="svg9"
+   viewBox="0 0 50 20"
+   version="1.1"
+   height="20"
+   width="50">
   <metadata
-     id="metadata7">
+     id="metadata13">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -50,43 +26,122 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <sodipodi:namedview
+     showguides="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg9"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="5.6342361"
+     inkscape:cx="28.205826"
+     inkscape:zoom="11.64"
+     showgrid="false"
+     id="namedview11"
+     inkscape:window-height="1024"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#000000"
+     pagecolor="#ffffff">
+    <inkscape:grid
+       id="grid822"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3">
+    <style
+       type="text/css"
+       id="current-color-scheme">.ColorScheme-Text {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+        stop-color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+        stop-color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+        stop-color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+        stop-color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+        stop-color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+        stop-color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+        stop-color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+        stop-color:#3daee9;
+      }</style>
+  </defs>
   <g
-     transform="translate(0,-64)"
-     id="layer1">
-    <g
-       transform="translate(18,0)"
-       id="checkbox">
-      <rect
-         width="16"
-         height="16"
-         rx="16.456314"
-         ry="0"
-         x="0"
-         y="64"
-         id="rect3706"
-         style="opacity:0;fill:#7d7d7d;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-      <path
-         d="m 10.536357,69.119796 c -0.222626,0.0061 -0.456598,0.101359 -0.6315307,0.276294 L 7.3787069,71.922209 6.1156481,70.65915 C 5.7657808,70.309281 5.224532,70.287207 4.8920601,70.619681 l -0.078943,0.07892 c -0.3324721,0.332476 -0.3103975,0.873722 0.039473,1.223593 l 1.7564414,1.736703 c 0.03075,0.04748 0.057119,0.07685 0.098677,0.118414 l 0.039472,0.03951 0.039473,0.03951 c 0.031631,0.02809 0.064557,0.0559 0.098677,0.07892 0.00839,0.0062 0.011163,0.01413 0.019738,0.01969 0.042355,0.02692 0.093142,0.04001 0.138147,0.05924 0.039386,0.01666 0.07717,0.02919 0.1184117,0.03951 0.014241,0.0036 0.025123,0.01664 0.039473,0.01969 0.1091014,0.02113 0.2245577,0.02188 0.3355002,0 0.020861,-0.0031 0.038662,-0.01464 0.059209,-0.01969 0.1498815,-0.04057 0.2946236,-0.117004 0.4144415,-0.236823 l 0.039472,-0.03951 c 0.04156,-0.04152 0.06792,-0.07087 0.098676,-0.118414 l 3.0194951,-2.999766 c 0.34987,-0.349864 0.371943,-0.891118 0.03951,-1.223583 l -0.07896,-0.07892 C 10.962206,69.19041 10.759007,69.114144 10.536385,69.11982 Z"
-         id="rect2910"
-         style="fill:#008c8c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63152933"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       id="radiobutton">
-      <rect
-         width="16"
-         height="16"
-         rx="87.767006"
-         ry="0"
-         x="0"
-         y="64"
-         id="rect3736"
-         style="opacity:0;fill:#9f9f9f;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-      <path
-         d="m 11.691758,72.058242 a 3.75,3.75 0 1 1 -7.5000002,0 3.75,3.75 0 1 1 7.5000002,0 z"
-         id="path3716"
-         style="fill:#008c8c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.67705095"
-         inkscape:connector-curvature="0" />
-    </g>
+     id="checkbox">
+    <path
+       style="fill:none"
+       inkscape:connector-curvature="0"
+       d="M 41,1 H 27 c -1.11,0 -2,0.9 -2,2 v 14 c 0,1.1 0.89,2 2,2 h 14 c 1.11,0 2,-0.9 2,-2 V 3 C 43,1.9 42.11,1 41,1 Z M 32,15 27,10 28.41,8.59 32,12.17 39.59,4.58 41,6 Z"
+       id="123" />
+    <path
+       sodipodi:nodetypes="sssssssss"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke-width:0.777778"
+       d="M 29.625,3 C 28.17075,3 27,4.17075 27,5.625 v 8.75 C 27,15.82925 28.17075,17 29.625,17 h 8.75 C 39.82925,17 41,15.82925 41,14.375 V 5.625 C 41,4.17075 39.82925,3 38.375,3 Z"
+       id="path820" />
+    <path
+       id="path824"
+       d="m 29,2 c -1.662,0 -3,1.338 -3,3 v 10 c 0,1.662 1.338,3 3,3 h 10 c 1.662,0 3,-1.338 3,-3 V 5 C 42,3.338 40.662,2 39,2 Z m 8.96598,4.2451048 1.257671,1.1395199 -7.000995,7.0606873 -3.552825,-3.587973 1.17325,-1.2366072 2.379575,2.3089562 z"
+       style="fill:#008c8c;fill-opacity:1;stroke-width:0.888889"
+       sodipodi:nodetypes="sssssssssccccccc" />
+  </g>
+  <g
+     id="radiobutton">
+    <path
+       style="fill:none"
+       inkscape:connector-curvature="0"
+       d="m 10,5 c -2.76,0 -5,2.24 -5,5 0,2.76 2.24,5 5,5 2.76,0 5,-2.24 5,-5 C 15,7.24 12.76,5 10,5 Z M 10,0 C 4.48,0 0,4.48 0,10 0,15.52 4.48,20 10,20 15.52,20 20,15.52 20,10 20,4.48 15.52,0 10,0 Z m 0,18 C 5.58,18 2,14.42 2,10 2,5.58 5.58,2 10,2 c 4.42,0 8,3.58 8,8 0,4.42 -3.58,8 -8,8 z"
+       id="222" />
+    <path
+       sodipodi:nodetypes="sssss"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke-width:0.8"
+       d="m 10,2 c -4.416,0 -8,3.584 -8,8 0,4.416 3.584,8 8,8 4.416,0 8,-3.584 8,-8 0,-4.416 -3.584,-8 -8,-8 z"
+       id="path822" />
+    <path
+       id="path833"
+       d="m 10,1 c -4.968,0 -9,4.032 -9,9 0,4.968 4.032,9 9,9 4.968,0 9,-4.032 9,-9 0,-4.968 -4.032,-9 -9,-9 z m 0,2 c 3.864,0 7,3.136 7,7 0,3.864 -3.136,7 -7,7 C 6.136,17 3,13.864 3,10 3,6.136 6.136,3 10,3 Z"
+       style="fill:#008c8c;fill-opacity:1;stroke-width:0.9" />
+    <path
+       style="fill:#008c8c;fill-opacity:1;stroke-width:0.5"
+       inkscape:connector-curvature="0"
+       d="m 10,5.1 c -2.76,0 -5,2.24 -5,5 0,2.76 2.24,5 5,5 2.76,0 5,-2.24 5,-5 0,-2.76 -2.24,-5 -5,-5 z"
+       id="path843"
+       sodipodi:nodetypes="sssss" />
   </g>
 </svg>
