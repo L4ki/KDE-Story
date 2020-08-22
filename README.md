@@ -119,5 +119,9 @@ Correction widgets: background.svg, checkmarks.svg, plasmoidheading.svg, viewite
 
 Icon correction: system.svg
 
+Changelog: 22.08.2020.
+----------------------
 
+Correction widgets: button.svg, viewitem.svg, tabbar.svg
 
+Added icon: virt.svg
