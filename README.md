@@ -125,3 +125,10 @@ Changelog: 22.08.2020.
 Correction widgets: button.svg, viewitem.svg, tabbar.svg
 
 Added icon: virt.svg
+
+Changelog: 09.09.2020.
+---------------------
+
+Icon correction: window.svg
+
+Correction of file colors
