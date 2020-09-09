@@ -6,7 +6,7 @@ Enable=false
 BackgroundAlternate=18,19,31
 BackgroundNormal=15,16,25
 DecorationFocus=46,139,139
-DecorationHover=46,139,139
+DecorationHover=0,103,103
 ForegroundActive=255,128,224
 ForegroundInactive=163,178,180
 ForegroundLink=46,139,139
@@ -21,15 +21,16 @@ BackgroundAlternate=18,19,31
 BackgroundNormal=18,19,31
 DecorationFocus=0,184,184
 DecorationHover=0,153,153
+ForegroundInactive=168,184,186
 ForegroundNegative=255,85,127
 ForegroundNeutral=255,170,127
 ForegroundVisited=0,184,184
 
 [Colors:Selection]
 BackgroundAlternate=0,150,150
-BackgroundNormal=0,184,184
+BackgroundNormal=0,150,150
 DecorationFocus=46,139,139
-DecorationHover=46,139,139
+DecorationHover=0,103,103
 ForegroundActive=255,128,224
 ForegroundInactive=255,211,188
 ForegroundLink=46,139,139
@@ -40,12 +41,12 @@ ForegroundPositive=128,255,128
 ForegroundVisited=17,20,21
 
 [Colors:Tooltip]
-BackgroundAlternate=180,204,207
+BackgroundAlternate=18,19,31
 BackgroundNormal=15,16,25
 DecorationFocus=46,139,139
-DecorationHover=46,139,139
+DecorationHover=0,103,103
 ForegroundActive=255,128,224
-ForegroundInactive=17,20,21
+ForegroundInactive=168,198,207
 ForegroundLink=46,139,139
 ForegroundNegative=253,84,126
 ForegroundNeutral=255,170,127
@@ -57,9 +58,9 @@ ForegroundVisited=100,58,197
 BackgroundAlternate=17,18,29
 BackgroundNormal=15,16,25
 DecorationFocus=0,184,184
-DecorationHover=46,139,139
+DecorationHover=0,103,103
 ForegroundActive=255,128,224
-ForegroundInactive=220,239,241
+ForegroundInactive=189,206,207
 ForegroundLink=0,184,184
 ForegroundNegative=253,84,126
 ForegroundNeutral=255,170,127
@@ -68,10 +69,10 @@ ForegroundPositive=0,110,40
 ForegroundVisited=178,193,195
 
 [Colors:Window]
-BackgroundAlternate=218,217,216
+BackgroundAlternate=18,19,31
 BackgroundNormal=15,16,25
 DecorationFocus=46,139,139
-DecorationHover=46,139,139
+DecorationHover=0,103,103
 ForegroundActive=255,128,224
 ForegroundInactive=139,151,153
 ForegroundLink=46,139,139
@@ -83,7 +84,7 @@ ForegroundVisited=88,51,173
 
 [General]
 ColorScheme=KDE-Story
-Name=KDE-Story
+Name=KDE-Story-1
 shadeSortColumn=true
 
 [KDE]
