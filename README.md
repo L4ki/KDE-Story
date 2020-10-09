@@ -132,3 +132,10 @@ Changelog: 09.09.2020.
 Icon correction: window.svg
 
 Correction of file colors
+
+Changelog: 09.10.2020.
+---------------------
+
+Fixed widget: button.svg
+
+Small colorcheme correction
