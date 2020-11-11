@@ -139,3 +139,8 @@ Changelog: 09.10.2020.
 Fixed widget: button.svg
 
 Small colorcheme correction
+
+Changelog: 11.11.2020.
+---------------------
+
+Fixed widget: panel-background.svg
