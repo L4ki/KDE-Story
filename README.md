@@ -151,3 +151,8 @@ Changelog: 27.11.2020.
 Correction widgets: plasmoidheading, tabbar, viewitem
 
 Correction of file colors
+
+Changelog: 09.01.2021.
+----------------------
+
+Redesigned Theme
