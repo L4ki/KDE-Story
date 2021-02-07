@@ -156,3 +156,12 @@ Changelog: 09.01.2021.
 ----------------------
 
 Redesigned Theme
+
+Changelog: 07.02.2021.
+----------------------
+
+Fixed Icons: klipper.svg, update.svg, input.svg, kdeconnect.svg, 
+
+Added Icons: cantata.svg, akgregator.svg, keyboard.svg, printer.svg, pamac.svg, manjaro.svg, phone.svg, drive.svg
+
+Fixed widget: tasks.svg
