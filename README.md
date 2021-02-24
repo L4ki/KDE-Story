@@ -165,3 +165,8 @@ Fixed Icons: klipper.svg, update.svg, input.svg, kdeconnect.svg,
 Added Icons: cantata.svg, akgregator.svg, keyboard.svg, printer.svg, pamac.svg, manjaro.svg, phone.svg, drive.svg
 
 Fixed widget: tasks.svg
+
+Changelog: 24.02.2021.
+----------------------
+
+Fixed widgets: button.svg, lineedit.svg, scrollbar.svg
