@@ -170,3 +170,10 @@ Changelog: 24.02.2021.
 ----------------------
 
 Fixed widgets: button.svg, lineedit.svg, scrollbar.svg
+
+Changelog: 12.03.2021.
+----------------------
+
+Added icons: compass.svg, plasmavault_error.svg. plasmavault.svg
+
+Fixed icon: pamac.svg
