@@ -177,3 +177,10 @@ Changelog: 12.03.2021.
 Added icons: compass.svg, plasmavault_error.svg. plasmavault.svg
 
 Fixed icon: pamac.svg
+
+Changelog: 23.03.2021.
+---------------------
+
+Added icons: kaffeine.svg, mail.svg, kmail.svg, video-card.svg, wallet.svg
+
+Fixed widget: tabbar.svg
