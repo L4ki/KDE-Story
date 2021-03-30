@@ -184,3 +184,8 @@ Changelog: 23.03.2021.
 Added icons: kaffeine.svg, mail.svg, kmail.svg, video-card.svg, wallet.svg
 
 Fixed widget: tabbar.svg
+
+Changelog: 30.03.2021.
+---------------------
+
+Added icons: quassel.svg, choqok.svg, choqok_offline.svg,software.svg
