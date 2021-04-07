@@ -189,3 +189,8 @@ Changelog: 30.03.2021.
 ---------------------
 
 Added icons: quassel.svg, choqok.svg, choqok_offline.svg,software.svg
+
+Changelog: 07.04.2021.
+----------------------
+
+Added icons: kalarm.svg, kteatime.svg, document.svg
