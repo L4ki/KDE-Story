@@ -194,3 +194,12 @@ Changelog: 07.04.2021.
 ----------------------
 
 Added icons: kalarm.svg, kteatime.svg, document.svg
+
+Changelog: 14.04.2021.
+----------------------
+
+Fixed icon: input.svg
+
+Added icons: video.svg, ktorrent.svg
+
+
