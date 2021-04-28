@@ -202,4 +202,9 @@ Fixed icon: input.svg
 
 Added icons: video.svg, ktorrent.svg
 
+Changelog: 28.04.2021.
+----------------------
+
+Added new icons: utilities.svg, TeamViewer.svg, user.svg
+
 
