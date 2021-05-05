@@ -207,4 +207,9 @@ Changelog: 28.04.2021.
 
 Added new icons: utilities.svg, TeamViewer.svg, user.svg
 
+Changelog: 05.05.2021.
+----------------------
+
+Added new icons: activities.svg, akonadi.svg
+
 
