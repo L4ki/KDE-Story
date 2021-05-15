@@ -212,4 +212,9 @@ Changelog: 05.05.2021.
 
 Added new icons: activities.svg, akonadi.svg
 
+Changelog: 15.05.2021.
+----------------------
+
+Added icons: kget.svg, korgac.svg, kpackagekit.svg
+
 
