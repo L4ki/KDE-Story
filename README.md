@@ -217,4 +217,9 @@ Changelog: 15.05.2021.
 
 Added icons: kget.svg, korgac.svg, kpackagekit.svg
 
+Changelog: 24.05.2021.
+----------------------
+
+Added icons: apport.svg, konv_message.svg, konversation.svg
+
 
