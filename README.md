@@ -222,4 +222,9 @@ Changelog: 24.05.2021.
 
 Added icons: apport.svg, konv_message.svg, konversation.svg
 
+Changelog: 06.06.2021.
+----------------------
+
+Added icons: elise.svg, audacious.svg
+
 
