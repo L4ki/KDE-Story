@@ -227,4 +227,9 @@ Changelog: 06.06.2021.
 
 Added icons: elise.svg, audacious.svg
 
+Changelog: 19.06.2021.
+----------------------
+
+Enable "Adaptive Transparency" for Plasma 5.22
+
 
