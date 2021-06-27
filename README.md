@@ -232,4 +232,9 @@ Changelog: 19.06.2021.
 
 Enable "Adaptive Transparency" for Plasma 5.22
 
+Changelog: 27.06.2021.
+----------------------
+
+Added icons: vlc.svg, kruler.svg, emblem.svg, kdf.svg, juk.svg
+
 
