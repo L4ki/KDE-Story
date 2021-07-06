@@ -237,4 +237,11 @@ Changelog: 27.06.2021.
 
 Added icons: vlc.svg, kruler.svg, emblem.svg, kdf.svg, juk.svg
 
+Changelog:06.07.2021.
+---------------------
+
+Added icon: amarok.svg
+
+Fixed icon: elisa.svg
+
 
