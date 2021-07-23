@@ -21,6 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -28,7 +29,7 @@
      id="defs16" />
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#000000"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -41,12 +42,14 @@
      showgrid="false"
      inkscape:zoom="9.8125"
      inkscape:cx="30.559955"
-     inkscape:cy="25.394477"
+     inkscape:cy="17.241611"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg12"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="false"
+     inkscape:lockguides="false">
     <inkscape:grid
        type="xygrid"
        id="grid865"
@@ -66,8 +69,8 @@
     <path
        id="path15"
        class="ColorScheme-Text"
-       d="m -15.564075,-8 v 19.826185 c -1.465066,-0.63188 -3.749635,-0.965829 -5.563287,-0.214301 -3.035823,1.256758 -4.391992,4.050034 -3.50512,6.191951 0.886869,2.142596 3.684902,2.824843 6.721403,1.567405 2.395317,-0.994342 3.553306,-3.632749 3.549619,-5.189677 l -0.03601,-15.1840866 c 0,0 5.950653,0.6989709 5.950653,6.2969156 0,4.198445 -1.2841,5.365568 -4.783984,8.864278 3.499884,-2.099221 6.181926,-4.665833 6.181926,-8.864278 0,-5.5979447 -4.321041,-8.1154152 -5.42771,-9.2217037 -0.699972,-0.6997482 -1.572252,-3.3722963 -1.572252,-3.3722963 z"
-       style="fill:#d3dae3;fill-opacity:1;stroke:none;stroke-width:1.16669" />
+       d="m -15.597793,-6 v 16.993873 c -1.25576,-0.541612 -3.213963,-0.827854 -4.768527,-0.183685 -2.602121,1.077214 -3.76456,3.471448 -3.004376,5.307377 0.760163,1.836513 3.158476,2.421303 5.761201,1.343503 2.053127,-0.852299 3.045682,-3.113787 3.042517,-4.448306 l -0.03081,-13.014926 c 0,0 5.1005537,0.5991186 5.1005537,5.3973561 0,3.5986699 -1.1006507,4.5990588 -4.1005567,7.5979559 2.999906,-1.799339 5.2987947,-3.999286 5.2987947,-7.5979559 0,-4.7982375 -3.7037497,-6.9560687 -4.6523197,-7.904316 -0.599985,-0.5997843 -1.347646,-2.8905401 -1.347646,-2.8905401 z"
+       style="fill:#d3dae3;fill-opacity:1;stroke:none;stroke-width:0.999973" />
   </g>
   <g
      id="22-22-juk"
