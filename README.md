@@ -244,4 +244,8 @@ Added icon: amarok.svg
 
 Fixed icon: elisa.svg
 
+Changelog: 23.07.2021.
+----------------------
+
+Fixed icon: juk.svg
 
