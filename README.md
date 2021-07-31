@@ -249,3 +249,8 @@ Changelog: 23.07.2021.
 
 Fixed icon: juk.svg
 
+Changelog: 31.07.2021.
+----------------------
+
+Fixed icons: cantata.svg, software.svg
+
