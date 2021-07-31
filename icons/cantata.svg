@@ -9,14 +9,14 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg2"
-   viewBox="0 0 22 22"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   viewBox="0 0 32 32"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="cantata.svg"
-   width="22"
-   height="22">
+   width="32"
+   height="32">
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#000000"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -28,19 +28,20 @@
      id="namedview14"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="36.227237"
-     inkscape:cy="3.9154739"
+     inkscape:cx="14.227237"
+     inkscape:cy="13.915474"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      inkscape:lockguides="true"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="false">
     <inkscape:grid
        type="xygrid"
        id="grid838"
-       originx="0"
-       originy="-10" />
+       originx="-22"
+       originy="0" />
   </sodipodi:namedview>
   <metadata
      id="metadata20">
@@ -50,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -66,7 +67,7 @@
   </defs>
   <g
      id="22-22-cantata"
-     transform="translate(0,-10)">
+     transform="translate(-22)">
     <path
        id="path7"
        class="ColorScheme-Text"
@@ -87,7 +88,7 @@
   <g
      id="cantata"
      inkscape:label="#cantata"
-     transform="translate(0,-10)">
+     transform="translate(-22)">
     <path
        id="path13"
        class="ColorScheme-Text"

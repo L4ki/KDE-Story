@@ -23,12 +23,13 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#000000"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -40,19 +41,20 @@
      id="namedview33"
      showgrid="false"
      inkscape:zoom="5.269354"
-     inkscape:cx="2.4584232"
-     inkscape:cy="-17.632128"
+     inkscape:cx="32.460424"
+     inkscape:cy="32.304868"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4153"
      inkscape:document-rotation="0"
-     showguides="true">
+     showguides="true"
+     inkscape:showpageshadow="false">
     <inkscape:grid
        type="xygrid"
        id="grid891"
-       originx="-30.002"
-       originy="-49.937" />
+       originx="1e-06"
+       originy="-4e-06" />
   </sodipodi:namedview>
   <defs
      id="defs4157">
@@ -65,7 +67,7 @@
      y="0"
      xlink:href="#g878"
      id="use880"
-     transform="translate(-57.32983,-49.936996)"
+     transform="translate(-27.327829)"
      width="100%"
      height="100%" />
   <use
@@ -73,7 +75,7 @@
      y="0"
      xlink:href="#use880"
      id="use882"
-     transform="translate(-24.481181,0.18977854)"
+     transform="translate(-24.481181,0.189779)"
      width="100%"
      height="100%" />
   <use
@@ -81,15 +83,14 @@
      y="0"
      xlink:href="#use884"
      id="use886"
-     transform="translate(-57.899159,-49.177894)"
+     transform="translate(-27.897158,0.759102)"
      width="100%"
      height="100%" />
   <g
      id="g6"
-     transform="matrix(0.81634558,0,0,0.81634558,-60.941697,-62.551514)" />
+     transform="matrix(0.81634558,0,0,0.81634558,-30.939696,-12.614518)" />
   <g
-     id="software-updates-inactive"
-     transform="translate(-30.002001,-49.936996)">
+     id="software-updates-inactive">
     <rect
        id="rect870"
        width="22"
@@ -103,8 +104,7 @@
        style="fill:#d3dae3;fill-opacity:1;stroke-width:0.0177713" />
   </g>
   <g
-     id="software-updates-updates"
-     transform="translate(-30.002001,-49.936996)">
+     id="software-updates-updates">
     <rect
        id="rect4210"
        width="22"
@@ -138,8 +138,7 @@
        class="ColorScheme-Background" />
   </g>
   <g
-     id="software-updates-important"
-     transform="translate(-30.002001,-49.936996)">
+     id="software-updates-important">
     <rect
        id="rect855"
        width="22"
@@ -166,8 +165,7 @@
        style="fill:#fcb536;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.3066px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
   <g
-     id="software-updates-additional"
-     transform="translate(-30.002001,-49.936996)">
+     id="software-updates-additional">
     <rect
        style="opacity:0;fill:#7a0000;fill-opacity:1;stroke:none;stroke-opacity:1"
        y="24.936996"
@@ -195,8 +193,7 @@
        class="ColorScheme-Background" />
   </g>
   <g
-     id="software-updates-release"
-     transform="translate(-30.002001,-49.936996)">
+     id="software-updates-release">
     <rect
        id="rect27"
        width="22"
@@ -224,8 +221,7 @@
        class="ColorScheme-Background" />
   </g>
   <g
-     id="software-updates-security"
-     transform="translate(-30.002001,-49.936996)">
+     id="software-updates-security">
     <rect
        id="rect865"
        width="22"
