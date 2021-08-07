@@ -13,7 +13,7 @@
    viewBox="0 0 173 56.000004"
    id="svg2"
    version="1.1"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="tooltip.svg">
   <style
      type="text/css"
@@ -437,7 +437,7 @@
      borderlayer="true"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1007"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -942,9 +942,9 @@
        height="5.9999771"
        width="3.9999998"
        id="shadow-hint-top-margin"
-       style="fill:#008080;fill-opacity:1;stroke:none;stroke-width:1" />
+       style="fill:#008080;fill-opacity:1;stroke:none;stroke-width:1;opacity:0.01" />
     <rect
-       style="fill:#008080;fill-opacity:1;stroke:none;stroke-width:1"
+       style="fill:#008080;fill-opacity:1;stroke:none;stroke-width:1;opacity:0.01"
        id="shadow-hint-bottom-margin"
        width="3.9999998"
        height="6.0000229"
@@ -952,7 +952,7 @@
        y="954.36224" />
     <rect
        transform="rotate(90)"
-       style="fill:#008080;fill-opacity:1;stroke:none;stroke-width:1"
+       style="fill:#008080;fill-opacity:1;stroke:none;stroke-width:1;opacity:0.01"
        id="shadow-hint-right-margin"
        width="3.9999769"
        height="5.9999771"
@@ -965,7 +965,7 @@
        height="6"
        width="4.0000229"
        id="shadow-hint-left-margin"
-       style="fill:#008080;fill-opacity:1;stroke:none;stroke-width:1" />
+       style="fill:#008080;fill-opacity:1;stroke:none;stroke-width:1;opacity:0.01" />
     <rect
        y="910.11212"
        x="131.99985"
