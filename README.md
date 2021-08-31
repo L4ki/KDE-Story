@@ -264,3 +264,8 @@ Changelog: 14.08.2021.
 
 Fixed widgets: bar_meter_horizontal.svg, bar_meter_vertical.svg
 
+Changelog: 31.08.2021.
+---------------------
+
+Fixed icons: window.svg, manjaro.svg
+
