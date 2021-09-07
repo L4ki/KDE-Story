@@ -269,3 +269,8 @@ Changelog: 31.08.2021.
 
 Fixed icons: window.svg, manjaro.svg
 
+Changelog: 07.09.2021.
+----------------------
+
+Fixed icon: compass.svg
+
