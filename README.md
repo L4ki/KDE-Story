@@ -274,8 +274,13 @@ Changelog: 07.09.2021.
 
 Fixed icon: compass.svg
 
-Changelog: 14.07.2021.
+Changelog: 14.09.2021.
 ---------------------
 
 Fixed icons: device.svg, disk.svg
+
+Changelog: 23.09.2021.
+---------------------
+
+Fixed widgets: arrows.svg, scrollbar.svg
 
