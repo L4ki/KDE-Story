@@ -289,3 +289,8 @@ Changelog: 01.10.2021.
 
 Fixed icons: document.svg, drive.svg
 
+Changelog: 10.10.2021.
+----------------------
+
+fixed widget: slider.svg
+
