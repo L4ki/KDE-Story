@@ -311,4 +311,9 @@ Changelog: 31.10.2021.
 
 Fixed widget: slider.svg
 
+Changelog: 07.11.2021.
+----------------------
+
+Fixed: dialogs background.svg
+
 
