@@ -316,4 +316,9 @@ Changelog: 07.11.2021.
 
 Fixed: dialogs background.svg
 
+Changelog: 14.11.2021.
+----------------------
+
+Fixed widget: clock.svg
+
 
