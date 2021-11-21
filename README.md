@@ -321,4 +321,9 @@ Changelog: 14.11.2021.
 
 Fixed widget: clock.svg
 
+Changelog: 21.11.2021.
+----------------------
+
+Fixed widget: tasks.svg
+
 
