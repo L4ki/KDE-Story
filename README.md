@@ -326,4 +326,9 @@ Changelog: 21.11.2021.
 
 Fixed widget: tasks.svg
 
+Changelog: 28.11.2021.
+----------------------
+
+Fixed widget: checkmarks.svg
+
 
