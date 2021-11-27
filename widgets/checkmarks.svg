@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="checkmarks.svg"
    id="svg9"
    viewBox="0 0 50 20"
    version="1.1"
    height="20"
-   width="50">
+   width="50"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata13">
     <rdf:RDF>
@@ -22,7 +22,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -33,12 +32,12 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="5.6342361"
-     inkscape:cx="28.205826"
-     inkscape:zoom="11.64"
+     inkscape:cy="11.299129"
+     inkscape:cx="31.224475"
+     inkscape:zoom="8.2307229"
      showgrid="false"
      id="namedview11"
-     inkscape:window-height="1024"
+     inkscape:window-height="1013"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -47,7 +46,10 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#000000"
-     pagecolor="#ffffff">
+     pagecolor="#ffffff"
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="false"
+     inkscape:lockguides="true">
     <inkscape:grid
        id="grid822"
        type="xygrid" />
@@ -56,8 +58,7 @@
      id="defs3">
     <style
        type="text/css"
-       id="current-color-scheme">
-    </style>
+       id="current-color-scheme" />
   </defs>
   <g
      id="checkbox">
