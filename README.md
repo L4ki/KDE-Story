@@ -332,3 +332,8 @@ Changelog: 28.11.2021.
 Fixed widget: checkmarks.svg
 
 
+Changelog: 05.12.2021.
+----------------------
+
+Fixed icon: view.svg
+
