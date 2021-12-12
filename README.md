@@ -337,3 +337,7 @@ Changelog: 05.12.2021.
 
 Fixed icon: view.svg
 
+Changelog: 12.12.2021.
+----------------------
+
+Fixed icon: action-overlays.svg
