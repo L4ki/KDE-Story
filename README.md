@@ -341,3 +341,10 @@ Changelog: 12.12.2021.
 ----------------------
 
 Fixed icon: action-overlays.svg
+
+Changelog: 19.12.2021.
+----------------------
+
+Fixed icon: panel-background.svg
+
+
