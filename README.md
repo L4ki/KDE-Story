@@ -345,6 +345,6 @@ Fixed icon: action-overlays.svg
 Changelog: 19.12.2021.
 ----------------------
 
-Fixed icon: panel-background.svg
+Fixed widget: panel-background.svg
 
 
