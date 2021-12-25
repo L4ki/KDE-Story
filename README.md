@@ -348,3 +348,10 @@ Changelog: 19.12.2021.
 Fixed widget: panel-background.svg
 
 
+Changelog: 26.12.2021.
+----------------------
+
+Fixed widget: tabbar.svg
+
+
+
