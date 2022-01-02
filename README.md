@@ -353,5 +353,8 @@ Changelog: 26.12.2021.
 
 Fixed widget: tabbar.svg
 
+Changelog: 02.01.2022.
+----------------------
 
+Fixed widget: listitem.svg
 
