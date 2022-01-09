@@ -358,3 +358,8 @@ Changelog: 02.01.2022.
 
 Fixed widget: listitem.svg
 
+Changelog: 09.01.2022.
+----------------------
+
+Fixed widget: button.svg
+
