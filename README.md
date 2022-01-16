@@ -363,3 +363,8 @@ Changelog: 09.01.2022.
 
 Fixed widget: button.svg
 
+Changelog: 16.01.2022.
+----------------------
+
+Fixed widget: busywidget.svg
+
