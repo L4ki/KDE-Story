@@ -368,3 +368,8 @@ Changelog: 16.01.2022.
 
 Fixed widget: busywidget.svg
 
+Changelog: 23.01.2022.
+----------------------
+
+Update widget: lineedit.svg
+
