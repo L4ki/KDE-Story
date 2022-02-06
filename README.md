@@ -378,3 +378,8 @@ Changelog: 30.01.2022.
 
 Update icons: redshift.svg
 
+Changelog: 06.02.2022.
+----------------------
+
+Redesigned theme 
+
