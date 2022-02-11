@@ -383,3 +383,8 @@ Changelog: 06.02.2022.
 
 Redesigned theme 
 
+Changelog: 13.02.2022.
+----------------------
+
+Update widget:  scrollwidget.svg
+
