@@ -2,22 +2,22 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="128"
    height="128"
    id="svg2396"
    sodipodi:version="0.32"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    version="1.0"
    sodipodi:docname="scrollwidget.svg"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2398">
     <linearGradient
@@ -113,21 +113,23 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="224.60934"
-     inkscape:cy="42.339979"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="151.32085"
+     inkscape:cy="30.759145"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1028"
+     inkscape:window-height="1007"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-grids="false"
      inkscape:snap-to-guides="false"
      inkscape:snap-nodes="false"
-     inkscape:lockguides="true">
+     inkscape:lockguides="false"
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="false">
     <inkscape:grid
        type="xygrid"
        id="grid3805" />
@@ -140,7 +142,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -159,10 +160,10 @@
          height="1"
          width="747.70868"
          id="rect2419"
-         style="opacity:0.50000000000000000;fill:#ffffff;fill-opacity:1;stroke:none" />
+         style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none" />
       <rect
          transform="scale(1,-1)"
-         style="opacity:0.50000000000000000;fill:#000000;fill-opacity:1;stroke:none"
+         style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none"
          id="rect3201"
          width="747.70868"
          height="1"
@@ -190,7 +191,7 @@
        transform="matrix(0.1444413,0,0,1,7.5535258,-401)"
        style="opacity:0.15">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;opacity:0.5"
+         style="opacity:0.5;fill:#ffffff;fill-opacity:1;stroke:none"
          id="rect3223"
          width="747.70868"
          height="1"
@@ -272,9 +273,9 @@
        width="8.5819988"
        id="border-topleft"
        style="opacity:0.15;fill:#ffffff;fill-opacity:0;stroke:none;stroke-width:20;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       transform="scale(-1,-1)" />
+       transform="scale(-1)" />
     <rect
-       transform="scale(-1,-1)"
+       transform="scale(-1)"
        style="opacity:0.15;fill:#8b8b8b;fill-opacity:0;stroke:none;stroke-width:20;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="border-bottomleft"
        width="8.5819988"
@@ -282,7 +283,7 @@
        x="-10.872583"
        y="-126.8381" />
     <rect
-       transform="scale(-1,-1)"
+       transform="scale(-1)"
        style="opacity:0.15;fill:#ffffff;fill-opacity:0;stroke:none;stroke-width:20;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="border-topright"
        width="8.5819988"
@@ -296,6 +297,6 @@
        width="8.5819988"
        id="border-bottomright"
        style="opacity:0.15;fill:#8b8b8b;fill-opacity:0;stroke:none;stroke-width:20;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       transform="scale(-1,-1)" />
+       transform="scale(-1)" />
   </g>
 </svg>
