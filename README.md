@@ -388,3 +388,8 @@ Changelog: 13.02.2022.
 
 Update widget:  scrollwidget.svg
 
+Changelog: 20.02.2022.
+----------------------
+
+Update icon: kalarm.svg
+
