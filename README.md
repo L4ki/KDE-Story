@@ -408,4 +408,9 @@ Changelog: 13.03.2022.
 
 Update icon: media.svg
 
+Changelog: 20.03.2022.
+----------------------
+
+Update icon: view.svg
+
 
