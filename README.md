@@ -423,3 +423,8 @@ Changelog: 04.04.2022.
 
 Update widget: tooltip.svg
 
+Changelog: 11.04.2022.
+----------------------
+
+Update widget: plasmavault.svg,plasmavaulterror.svg,device.svg, disk.svg
+
