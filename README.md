@@ -426,5 +426,10 @@ Update widget: tooltip.svg
 Changelog: 11.04.2022.
 ----------------------
 
-Update widget: plasmavault.svg,plasmavaulterror.svg,device.svg, disk.svg
+Update icons: plasmavault.svg,plasmavaulterror.svg,device.svg, disk.svg
+
+Changelog: 18.04.2022.
+----------------------
+
+Update icon: configure.svg
 
