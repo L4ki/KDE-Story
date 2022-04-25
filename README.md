@@ -433,3 +433,8 @@ Changelog: 18.04.2022.
 
 Update icon: configure.svg
 
+Changelog: 18.04.2022.
+----------------------
+
+Update widget: calendar.svg
+
