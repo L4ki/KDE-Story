@@ -2,34 +2,34 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="30"
    height="30"
    id="svg3383"
    sodipodi:version="0.32"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    version="1.0"
    sodipodi:docname="calendar.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-ydpi="90"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
+     bordercolor="#000000"
+     borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.656854"
-     inkscape:cx="56.113064"
-     inkscape:cy="2.5862386"
+     inkscape:zoom="7.9999996"
+     inkscape:cx="21.187501"
+     inkscape:cy="20.312501"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:document-units="px"
@@ -37,7 +37,7 @@
      width="130px"
      height="130px"
      inkscape:window-width="1920"
-     inkscape:window-height="1028"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      showguides="true"
@@ -48,7 +48,9 @@
      inkscape:snap-nodes="true"
      inkscape:snap-grids="true"
      inkscape:snap-to-guides="true"
-     inkscape:lockguides="true">
+     inkscape:lockguides="true"
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="false">
     <inkscape:grid
        type="xygrid"
        id="grid7332"
@@ -2329,7 +2331,11 @@
        y2="-477.71875" />
     <filter
        inkscape:collect="always"
-       id="filter4589">
+       id="filter4589"
+       x="-0.020424771"
+       y="-0.012961828"
+       width="1.0408495"
+       height="1.0259237">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="1.2438338"
@@ -2382,7 +2388,11 @@
        y2="431.02829" />
     <filter
        inkscape:collect="always"
-       id="filter4634">
+       id="filter4634"
+       x="-0.011996088"
+       y="-0.018898059"
+       width="1.0239922"
+       height="1.0377961">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="1.9177029"
@@ -3602,7 +3612,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
