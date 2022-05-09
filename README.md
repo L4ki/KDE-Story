@@ -443,3 +443,8 @@ Changelog: 02.05.2022.
 
 Update widget: tasks.svg
 
+Changelog: 09.05.2022.
+----------------------
+
+Update icon: choqok_offline.svg
+
