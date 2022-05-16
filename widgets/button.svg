@@ -4,7 +4,7 @@
    viewBox="0 0 288 224"
    version="1.1"
    sodipodi:docname="button.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -161,13 +161,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-height="1009"
      id="namedview317"
      showgrid="false"
      inkscape:current-layer="svg2"
      inkscape:zoom="1.9999999"
-     inkscape:cx="137.00001"
-     inkscape:cy="125.25001"
+     inkscape:cx="199.25001"
+     inkscape:cy="125.75001"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -1506,7 +1506,7 @@
        id="path1565-4"
        d="m 4,-9 v 1 h 22 v -1 z"
        class="ColorScheme-ButtonHover"
-       style="fill:#085e5c;fill-opacity:1" />
+       style="fill:#009696;fill-opacity:1;opacity:0.5" />
   </g>
   <g
      id="toolbutton-hover-bottomright"
@@ -1523,7 +1523,7 @@
        id="path1561-6"
        d="m 29,-11 c 0,1.108 -0.892,2 -2,2 v 1 c 1.662,0 3,-1.338 3,-3 z"
        class="ColorScheme-ButtonHover"
-       style="fill:#085e5c;fill-opacity:1" />
+       style="fill:#009696;fill-opacity:1;opacity:0.5" />
   </g>
   <g
      id="toolbutton-hover-right"
@@ -1540,7 +1540,7 @@
        id="path1559-2"
        d="m 29,-34 v 22 h 1 v -22 z"
        class="ColorScheme-ButtonHover"
-       style="fill:#085e5c;fill-opacity:1" />
+       style="fill:#009696;fill-opacity:1;opacity:0.5" />
   </g>
   <g
      id="toolbutton-hover-top"
@@ -1557,7 +1557,7 @@
        id="path1565-4-9"
        d="m 4,-9 v 1 h 22 v -1 z"
        class="ColorScheme-ButtonHover"
-       style="fill:#085e5c;fill-opacity:1" />
+       style="fill:#009696;fill-opacity:1;opacity:0.5" />
   </g>
   <g
      id="toolbutton-hover-topleft"
@@ -1574,7 +1574,7 @@
        id="path1561-6-8"
        d="m 29,-11 c 0,1.108 -0.892,2 -2,2 v 1 c 1.662,0 3,-1.338 3,-3 z"
        class="ColorScheme-ButtonHover"
-       style="fill:#085e5c;fill-opacity:1" />
+       style="fill:#009696;fill-opacity:1;opacity:0.5" />
   </g>
   <g
      id="toolbutton-hover-left"
@@ -1591,7 +1591,7 @@
        id="path1559-2-8"
        d="m 29,-34 v 22 h 1 v -22 z"
        class="ColorScheme-ButtonHover"
-       style="fill:#085e5c;fill-opacity:1" />
+       style="fill:#009696;fill-opacity:1;opacity:0.5" />
   </g>
   <g
      id="toolbutton-hover-topright"
@@ -1608,7 +1608,7 @@
        id="path1561-6-3"
        d="m 29,-11 c 0,1.108 -0.892,2 -2,2 v 1 c 1.662,0 3,-1.338 3,-3 z"
        class="ColorScheme-ButtonHover"
-       style="fill:#085e5c;fill-opacity:1" />
+       style="fill:#009696;fill-opacity:1;opacity:0.5" />
   </g>
   <g
      id="toolbutton-hover-bottomleft"
@@ -1625,7 +1625,7 @@
        id="path1561-6-4"
        d="m 29,-11 c 0,1.108 -0.892,2 -2,2 v 1 c 1.662,0 3,-1.338 3,-3 z"
        class="ColorScheme-ButtonHover"
-       style="fill:#085e5c;fill-opacity:1" />
+       style="fill:#009696;fill-opacity:1;opacity:0.5" />
   </g>
   <path
      id="toolbutton-hover-center"
@@ -1918,83 +1918,138 @@
     </g>
   </g>
   <g
-     id="toolbutton-pressed-hint-top-margin" />
-  <path
+     id="g1431" />
+  <g
      id="toolbutton-pressed-top"
-     d="m 241.5,178.11979 v 3 h 22 v -3 z"
-     class="ColorScheme-ButtonHover"
-     fill-rule="evenodd"
-     style="fill:#009696;fill-opacity:1" />
-  <path
-     id="toolbutton-pressed-topleft"
-     d="m 240.5,178.11979 c -1.662,0 -3,1.338 -3,3 h 3 v -2 z"
-     class="ColorScheme-ButtonHover"
-     fill-rule="evenodd"
-     style="fill:#009696;fill-opacity:1" />
+     transform="translate(0.93489014,2.139963)">
+    <path
+       id="path448"
+       d="m 242,178.5 h 22 v 2.5 h -22 z"
+       style="fill:#009696;fill-opacity:0.14901961;fill-rule:evenodd"
+       class="ColorScheme-Highlight" />
+    <path
+       id="path446"
+       d="m 242,178 v 1 h 22 v -1 z"
+       style="fill:#009696;fill-rule:evenodd;fill-opacity:1"
+       class="ColorScheme-Highlight" />
+  </g>
   <path
      id="toolbutton-pressed-center"
-     d="m 241.5,182.11979 h 22 v 22 h -22 z"
-     class="ColorScheme-ButtonHover"
-     fill-rule="evenodd"
-     style="fill:#009696;fill-opacity:1" />
-  <path
+     d="m 242.93489,184.13996 h 22 v 22 h -22 z"
+     style="color:#3daee9;fill:#009696;fill-opacity:0.15000001;fill-rule:evenodd;stop-color:#3daee9"
+     class="ColorScheme-Highlight" />
+  <g
      id="toolbutton-pressed-bottom"
-     d="m 263.5,208.11979 v -3 h -22 v 3 z"
-     class="ColorScheme-ButtonHover"
-     fill-rule="evenodd"
-     style="fill:#009696;fill-opacity:1" />
-  <path
-     id="toolbutton-pressed-bottomright"
-     d="m 264.5,208.11979 c 1.662,0 3,-1.338 3,-3 h -3 v 2 z"
-     class="ColorScheme-ButtonHover"
-     fill-rule="evenodd"
-     style="fill:#009696;fill-opacity:1" />
-  <path
+     transform="translate(0.93489014,2.139963)">
+    <path
+       id="path452"
+       d="m 242,205 h 22 v 2.5 h -22 z"
+       style="fill:#009696;fill-opacity:0.14901961;fill-rule:evenodd"
+       class="ColorScheme-Highlight" />
+    <path
+       id="path454"
+       d="m 264,208 v -1 h -22 v 1 z"
+       style="fill:#009696;fill-rule:evenodd;fill-opacity:1"
+       class="ColorScheme-Highlight" />
+  </g>
+  <g
      id="toolbutton-pressed-right"
-     d="m 267.5,182.11979 h -3 v 22 h 3 z"
-     class="ColorScheme-ButtonHover"
-     fill-rule="evenodd"
-     style="fill:#009696;fill-opacity:1" />
-  <path
-     id="toolbutton-pressed-topright"
-     d="m 267.5,181.11979 c 0,-1.662 -1.338,-3 -3,-3 v 3 h 2 z"
-     class="ColorScheme-ButtonHover"
-     fill-rule="evenodd"
-     style="fill:#009696;fill-opacity:1" />
-  <path
+     transform="translate(0.93489014,2.139963)">
+    <path
+       id="path456"
+       d="m 265,204 v -22 h 2.5 v 22 z"
+       style="fill:#009696;fill-opacity:0.14901961;fill-rule:evenodd"
+       class="ColorScheme-Highlight" />
+    <path
+       id="path458"
+       d="m 268,182 h -1 v 22 h 1 z"
+       style="fill:#009696;fill-rule:evenodd;fill-opacity:1"
+       class="ColorScheme-Highlight" />
+  </g>
+  <g
      id="toolbutton-pressed-left"
-     d="m 237.5,204.11979 h 3 v -22 h -3 z"
-     class="ColorScheme-ButtonHover"
-     fill-rule="evenodd"
-     style="fill:#009696;fill-opacity:1" />
+     transform="translate(0.93489014,2.139963)">
+    <path
+       id="path460"
+       d="m 238.5,204 v -22 h 2.5 v 22 z"
+       style="fill:#009696;fill-opacity:0.14901961;fill-rule:evenodd"
+       class="ColorScheme-Highlight" />
+    <path
+       id="path462"
+       d="m 238,204 h 1 v -22 h -1 z"
+       style="fill:#009696;fill-rule:evenodd;fill-opacity:1"
+       class="ColorScheme-Highlight" />
+  </g>
   <path
-     id="toolbutton-pressed-bottomleft"
-     d="m 237.5,205.11979 c 0,1.662 1.338,3 3,3 v -3 h -2 z"
-     class="ColorScheme-ButtonHover"
-     fill-rule="evenodd"
-     style="fill:#009696;fill-opacity:1" />
+     id="toolbutton-pressed-hint-top-margin"
+     d="m 252.93489,180.13996 h 2 v 4 h -2 z"
+     style="fill:#008080;fill-rule:evenodd;stroke-width:0.999996;opacity:0.01" />
   <path
-     style="opacity:0.01;fill:#081c2d;fill-opacity:1;stroke-width:0.999996"
-     id="toolbutton-pressed-hint-top-margin-6"
-     d="m 251.5,178.11979 h 2 v 4 h -2 z"
-     fill="#ff00ff"
-     fill-rule="evenodd" />
-  <path
-     style="opacity:0.01;fill:#081c2d;fill-opacity:1;stroke-width:0.999996"
      id="toolbutton-pressed-hint-bottom-margin"
-     d="m 251.5,204.11979 h 2 v 4 h -2 z"
-     fill="#ff00ff"
-     fill-rule="evenodd" />
+     d="m 252.93489,206.13996 h 2 v 4 h -2 z"
+     style="fill:#008080;fill-rule:evenodd;stroke-width:0.999996;opacity:0.01" />
   <path
-     style="opacity:0.01;fill:#081c2d;fill-opacity:1;stroke-width:0.999996"
      id="toolbutton-pressed-hint-left-margin"
-     d="m 237.5,192.11979 h 4 v 2 h -4 z"
-     fill="#ff00ff"
-     fill-rule="evenodd" />
+     d="m 238.93489,194.13996 h 4 v 2 h -4 z"
+     style="fill:#008080;fill-rule:evenodd;stroke-width:0.999996;opacity:0.01" />
   <path
-     style="opacity:0.01;fill:#081c2d;fill-opacity:1;stroke-width:0.999996"
      id="toolbutton-pressed-hint-right-margin"
-     d="m 263.5,192.11979 h 4 v 2 h -4 z"
-     fill="#ff00ff"
-     fill-rule="evenodd" />
+     d="m 264.93489,194.13996 h 4 v 2 h -4 z"
+     style="fill:#008080;fill-rule:evenodd;stroke-width:0.999996;opacity:0.01" />
+  <g
+     id="toolbutton-pressed-topright"
+     style="color:#3daee9;fill:currentColor;stop-color:#3daee9"
+     class="ColorScheme-Highlight"
+     transform="matrix(-1,0,0,1,506.93489,2.139963)">
+    <path
+       id="path578"
+       d="m 241,178.5 c -1.38071,0 -2.5,1.11929 -2.5,2.5 h 2.5 z"
+       style="opacity:1;fill-rule:evenodd;fill:#009696;fill-opacity:0.14901961" />
+    <path
+       id="path580"
+       d="m 241,178 c -1.662,0 -3,1.338 -3,3 h 1 c 0,-1.10457 0.89543,-2 2,-2 z"
+       style="fill:#009696;fill-opacity:1" />
+  </g>
+  <g
+     id="toolbutton-pressed-topleft"
+     transform="translate(0.93489014,2.139963)">
+    <path
+       id="path584"
+       d="m 241,178.5 c -1.38071,0 -2.5,1.11929 -2.5,2.5 h 2.5 z"
+       style="opacity:1;fill:#009696;fill-rule:evenodd;fill-opacity:0.14901961"
+       class="ColorScheme-Highlight" />
+    <path
+       id="path586"
+       d="m 241,178 c -1.662,0 -3,1.338 -3,3 h 1 c 0,-1.10457 0.89543,-2 2,-2 z"
+       style="fill:#009696;fill-opacity:1"
+       class="ColorScheme-Highlight" />
+  </g>
+  <g
+     id="toolbutton-pressed-bottomright"
+     style="color:#3daee9;fill:currentColor;stop-color:#3daee9"
+     class="ColorScheme-Highlight"
+     transform="rotate(180,253.46745,194.06999)">
+    <path
+       id="path588"
+       d="m 241,178.5 c -1.38071,0 -2.5,1.11929 -2.5,2.5 h 2.5 z"
+       style="opacity:1;fill-rule:evenodd;fill:#009696;fill-opacity:0.14901961" />
+    <path
+       id="path590"
+       d="m 241,178 c -1.662,0 -3,1.338 -3,3 h 1 c 0,-1.10457 0.89543,-2 2,-2 z"
+       style="fill:#009696;fill-opacity:1" />
+  </g>
+  <g
+     id="toolbutton-pressed-bottomleft"
+     style="color:#3daee9;fill:currentColor;stop-color:#3daee9"
+     class="ColorScheme-Highlight"
+     transform="matrix(1,0,0,-1,0.93489014,388.13996)">
+    <path
+       id="path594"
+       d="m 241,178.5 c -1.38071,0 -2.5,1.11929 -2.5,2.5 h 2.5 z"
+       style="opacity:1;fill-rule:evenodd;fill:#009696;fill-opacity:0.14901961" />
+    <path
+       id="path596"
+       d="m 241,178 c -1.662,0 -3,1.338 -3,3 h 1 c 0,-1.10457 0.89543,-2 2,-2 z"
+       style="fill:#009696;fill-opacity:1" />
+  </g>
 </svg>
