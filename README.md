@@ -448,3 +448,10 @@ Changelog: 09.05.2022.
 
 Update icon: choqok_offline.svg
 
+Changelog: 16.05.2022.
+----------------------
+
+Update icon: compass.svg
+
+Update widget: button.svg
+
