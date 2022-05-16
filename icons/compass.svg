@@ -5,7 +5,7 @@
    version="1.1"
    id="svg12"
    sodipodi:docname="compass.svg"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -14,6 +14,26 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <g
+     id="22-22-compass"
+     transform="translate(32.000012,9.9999997)">
+    <rect
+       style="fill:url(#radialGradient869-3);fill-opacity:1;stroke:none;stroke-width:0.6875"
+       id="rect2994-2"
+       width="22"
+       height="22"
+       x="0"
+       y="0" />
+    <path
+       d="M 7.7961744,13.825133 12.487118,12.334241 13.982782,7.658258 9.2918374,9.149153 Z m 2.5834176,-3.659463 1.495664,-0.474375 -0.475893,1.490892 -1.4956636,0.474376 z"
+       id="path2-2-3-7-9"
+       style="fill:#000000;fill-opacity:1;stroke-width:0.678764" />
+    <path
+       d="m 11.021999,4.125 c -3.7933496,0 -6.8969996,3.09375 -6.8969996,6.875 0,3.78125 3.10365,6.875 6.8969996,6.875 3.793349,0 6.897,-3.09375 6.897,-6.875 0,-3.78125 -3.103651,-6.875 -6.897,-6.875 z m 0,12.644788 C 8.0182704,16.735493 5.2505744,14.765241 5.2337454,11 5.2181354,7.507416 7.9873194,5.230222 11.021999,5.230222 c 3.03468,0 5.841848,2.454256 5.788238,5.769778 -0.05677,3.511022 -2.753758,5.804431 -5.788238,5.769788 z"
+       id="path4-3-9-6-5-1"
+       style="fill:#000000;fill-opacity:1;stroke-width:0.688607"
+       sodipodi:nodetypes="ssssssssss" />
+  </g>
   <metadata
      id="metadata18">
     <rdf:RDF>
@@ -27,17 +47,6 @@
   </metadata>
   <defs
      id="defs16">
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient960"
-       id="radialGradient962"
-       cx="16"
-       cy="16"
-       fx="16"
-       fy="16"
-       r="11"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(27.000026,4.9999877)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient960">
@@ -53,14 +62,25 @@
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient960"
-       id="radialGradient962-7"
+       id="radialGradient869"
        cx="16"
-       cy="16"
+       cy="8.0000048"
        fx="16"
-       fy="16"
-       r="11"
+       fy="8.0000048"
+       r="16"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.4545465,0,0,1.4545465,-7.272707,-7.2727413)" />
+       gradientTransform="translate(-9.099404e-7,7.9999953)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient960"
+       id="radialGradient869-3"
+       cx="16"
+       cy="8.0000048"
+       fx="16"
+       fy="8.0000048"
+       r="16"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.6875,0,0,0.6875,-1.5616093e-6,5.499997)" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -72,12 +92,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1009"
      id="namedview14"
      showgrid="false"
-     inkscape:zoom="9.8125003"
-     inkscape:cx="30.114649"
-     inkscape:cy="17.732484"
+     inkscape:zoom="8"
+     inkscape:cx="29.3125"
+     inkscape:cy="8.875"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -92,37 +112,22 @@
        originy="9.9999997" />
   </sodipodi:namedview>
   <g
-     id="22-22-compass">
-    <path
-       style="fill:url(#radialGradient962);fill-opacity:1;stroke-width:1.00005;enable-background:new"
-       d="m 43.000013,9.9999997 c -6.069423,0 -11.000001,4.9305813 -11.000001,10.9999993 0,6.069422 4.930578,11.000002 11.000001,11.000001 6.069417,0 11.000001,-4.930579 10.999999,-11.000001 0,-6.069418 -4.930582,-10.9999993 -10.999999,-10.9999993 z"
-       id="path24"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 39.726022,23.876498 4.760999,-1.518 1.518,-4.760999 -4.761,1.517999 z m 2.621999,-3.726 1.518,-0.483 -0.483,1.518 -1.518,0.483 z"
-       id="path2"
-       style="fill:#000000;stroke-width:0.69;fill-opacity:1" />
-    <path
-       d="m 43.000022,13.999999 c -3.85,0 -7,3.15 -7,7 0,3.849998 3.15,6.999998 7,6.999998 3.849998,0 6.999998,-3.15 6.999998,-6.999998 0,-3.85 -3.15,-7 -6.999998,-7 z m 0,13.000001 C 39.920021,27 37,24.079997 37,20.999999 37,17.919998 39.920021,15 43.000022,15 46.08002,15 49,17.919998 49,20.999999 49,24.079997 46.08002,27 43.000022,27 Z"
-       id="path4-3"
-       style="fill:#000000;fill-opacity:1;stroke-width:0.700005"
-       sodipodi:nodetypes="ssssssssss" />
-  </g>
-  <g
      id="compass">
+    <rect
+       style="fill:url(#radialGradient869);fill-opacity:1;stroke:none"
+       id="rect2994"
+       width="32"
+       height="32"
+       x="0"
+       y="0" />
     <path
-       style="fill:url(#radialGradient962-7);fill-opacity:1;stroke-width:1.45465;enable-background:new"
-       d="M 16.000001,0 C 7.17175,0 0,7.171753 0,15.999999 0,24.828247 7.17175,32.000001 16.000001,32 24.828247,32 32.000002,24.828247 32,15.999999 32,7.171753 24.828247,0 16.000001,0 Z"
-       id="path24-5"
-       inkscape:connector-curvature="0" />
+       d="m 11.339891,20.109284 6.823191,-2.168571 2.175512,-6.801429 -6.823193,2.168574 z m 3.757699,-5.322856 2.175511,-0.69 -0.692208,2.168571 -2.175511,0.690001 z"
+       id="path2-2-3-7"
+       style="fill:#000000;fill-opacity:1;stroke-width:0.987293" />
     <path
-       d="m 11.23783,20.183992 6.92509,-2.208 2.208,-6.92509 -6.92509,2.208 z m 3.813818,-5.419636 2.208,-0.702545 -0.702546,2.207999 -2.207999,0.702546 z"
-       id="path2-2"
-       style="fill:#000000;stroke-width:1.00364;fill-opacity:1" />
-    <path
-       d="m 16.000012,5.8181747 c -5.6,0 -10.181818,4.5818183 -10.181818,10.1818183 0,5.599998 4.581818,10.181817 10.181818,10.181817 5.599998,0 10.181817,-4.581819 10.181817,-10.181817 0,-5.6 -4.581819,-10.1818183 -10.181817,-10.1818183 z m 0,18.7268253 C 11.565702,24.494213 7.4798439,21.576284 7.455,15.999993 7.4319551,10.827505 11.520012,7.455 16.000012,7.455 c 4.479999,0 8.624132,3.634732 8.544988,8.544993 -0.08381,5.199793 -4.065283,8.596314 -8.544988,8.545007 z"
-       id="path4-3-9"
-       style="fill:#000000;fill-opacity:1;stroke-width:1.01819"
+       d="M 16.032,5.9999997 C 10.5144,5.9999997 6,10.5 6,16 c 0,5.499999 4.5144,10 10.032,10 5.517599,0 10.032,-4.500001 10.032,-10 0,-5.5 -4.514401,-10.0000003 -10.032,-10.0000003 z m 0,18.3924183 C 11.662939,24.342535 7.6372,21.476714 7.6127215,16 7.5900205,10.919878 11.61792,7.6075957 16.032,7.6075957 c 4.41408,0 8.497233,3.5698263 8.419255,8.3924043 -0.08258,5.10694 -4.005466,8.442809 -8.419255,8.392418 z"
+       id="path4-3-9-6-5"
+       style="fill:#000000;fill-opacity:1;stroke-width:1.00161"
        sodipodi:nodetypes="ssssssssss" />
   </g>
 </svg>
