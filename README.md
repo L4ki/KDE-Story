@@ -455,3 +455,9 @@ Update icon: compass.svg
 
 Update widget: button.svg
 
+Changelog: 23.05.2022.
+----------------------
+
+Update icons: kdeconnect.svg, device.svg, klipper.svg
+
+
