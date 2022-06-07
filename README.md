@@ -465,3 +465,8 @@ Changelog: 31.05.2022.
 
 Update widget: viewitem.svg
 
+Changelog: 07.06.2022.
+----------------------
+
+Update widget: preferences, video, choqok_offline, choqok, device, disk, kmail. mail, manjaro, utilities
+
