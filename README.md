@@ -470,3 +470,8 @@ Changelog: 07.06.2022.
 
 Update icons: preferences, video, choqok_offline, choqok, device, disk, kmail. mail, manjaro, utilities
 
+Changelog: 14.06.2022.
+----------------------
+
+Update icons: konv_message, konversation, plasmavault_error, plasmavault
+
