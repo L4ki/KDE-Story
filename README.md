@@ -475,3 +475,9 @@ Changelog: 14.06.2022.
 
 Update icons: konv_message, konversation, plasmavault_error, plasmavault
 
+
+Changelog: 21.06.2022.
+----------------------
+
+Update icons: kget, kruler, phone
+
