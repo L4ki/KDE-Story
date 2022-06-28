@@ -481,3 +481,9 @@ Changelog: 21.06.2022.
 
 Update icons: kget, kruler, phone
 
+
+Changelog: 28.06.2022.
+----------------------
+
+Update icon: wallet.svg
+
