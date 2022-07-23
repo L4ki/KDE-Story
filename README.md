@@ -492,3 +492,8 @@ Changelog: 14.07.2022.
 
 Update icon: quassel.svg
 
+Changelog: 23.07.2022.
+----------------------
+
+Update icon: window.svg
+
