@@ -497,3 +497,8 @@ Changelog: 23.07.2022.
 
 Update icon: window.svg
 
+Changelog: 30.07.2022.
+----------------------
+
+Update widgets: tabbar.svg, viewitem
+
