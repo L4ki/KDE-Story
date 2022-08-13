@@ -506,3 +506,8 @@ Changelog: 06.08.2022.
 ----------------------
 
 Update widget: line.svg
+
+Changelog: 13.08.2022.
+----------------------
+
+Update widget: listitem.svg
