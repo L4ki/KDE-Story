@@ -5,7 +5,7 @@
    width="128"
    id="svg2"
    sodipodi:docname="listitem.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,19 +23,20 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1002"
      id="namedview58"
      showgrid="false"
-     inkscape:zoom="1.1125146"
-     inkscape:cx="156.40244"
-     inkscape:cy="182.91894"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="149.55308"
+     inkscape:cy="155.56349"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      inkscape:lockguides="false"
      inkscape:pagecheckerboard="0"
-     inkscape:showpageshadow="false" />
+     inkscape:showpageshadow="false"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -199,42 +200,42 @@
      id="pressed-center" />
   <path
      class="ColorScheme-ViewFocus"
-     style="opacity:0.1;fill:#00b8b8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="opacity:0.05;fill:#00b8b8;fill-opacity:1;fill-rule:nonzero;stroke:none"
      d="m 30.9997,10.000015 0,11.000005 2,0 c 6.68e-4,-0.01835 0,-0.0344 0,-0.05289 l 0,-10.89423 c 0,-0.0185 6.68e-4,-0.03453 0,-0.05288 l -2,0 z"
      id="pressed-right" />
   <path
      class="ColorScheme-ViewFocus"
-     style="opacity:0.1;fill:#00b8b8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="opacity:0.05;fill:#00b8b8;fill-opacity:1;fill-rule:nonzero;stroke:none"
      d="m 19.9997,7.999968 0,2.000047 10.999999,0 0,-2.000047 c -0.0041,-6.7e-4 0.0045,0 3.01e-4,0 l -10.98844,0 c -0.004,0 -0.008,-6.7e-4 -0.0119,0 z"
      id="pressed-top" />
   <path
      class="ColorScheme-ViewFocus"
-     style="opacity:0.1;fill:#00b8b8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="opacity:0.05;fill:#00b8b8;fill-opacity:1;fill-rule:nonzero;stroke:none"
      d="m 18,10.000015 c -6.7e-4,0.01835 0,0.03439 0,0.05288 l 0,10.89423 c 0,0.0185 -6.7e-4,0.03453 0,0.05288 l 2,0 L 20,10 18,10 z"
      id="pressed-left" />
   <path
      class="ColorScheme-ViewFocus"
-     style="opacity:0.1;fill:#00b8b8;fill-opacity:1;fill-rule:nonzero"
+     style="opacity:0.05;fill:#00b8b8;fill-opacity:1;fill-rule:nonzero"
      d="m 20,21 0,2 11,0 0,-2 -11,0 z"
      id="pressed-bottom" />
   <path
      class="ColorScheme-ViewFocus"
      id="pressed-topleft"
      d="m 17.999667,7.999968 0,2.000047 1.999722,0 0,-2.000047 c -7.45e-4,-6.7e-4 8.18e-4,0 5.5e-5,0 l -1.997621,0 c -7.27e-4,0 -0.0015,-6.7e-4 -0.0022,0 z"
-     style="opacity:0.1;fill:#00b8b8;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+     style="opacity:0.05;fill:#00b8b8;fill-opacity:1;fill-rule:nonzero;stroke:none" />
   <path
      class="ColorScheme-ViewFocus"
-     style="opacity:0.1;fill:#00b8b8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="opacity:0.05;fill:#00b8b8;fill-opacity:1;fill-rule:nonzero;stroke:none"
      d="m 31.000044,7.999968 0,2.000047 1.999722,0 0,-2.000047 c -7.45e-4,-6.7e-4 8.18e-4,0 5.5e-5,0 l -1.997621,0 c -7.27e-4,0 -0.0015,-6.7e-4 -0.0022,0 z"
      id="pressed-topright" />
   <path
      class="ColorScheme-ViewFocus"
      id="pressed-bottomright"
      d="m 31.000044,20.999953 0,2.000047 1.999722,0 0,-2.000047 c -7.45e-4,-6.7e-4 8.18e-4,0 5.5e-5,0 l -1.997621,0 c -7.27e-4,0 -0.0015,-6.7e-4 -0.0022,0 z"
-     style="opacity:0.1;fill:#00b8b8;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+     style="opacity:0.05;fill:#00b8b8;fill-opacity:1;fill-rule:nonzero;stroke:none" />
   <path
      class="ColorScheme-ViewFocus"
-     style="opacity:0.1;fill:#00b8b8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="opacity:0.05;fill:#00b8b8;fill-opacity:1;fill-rule:nonzero;stroke:none"
      d="m 18.000044,20.999953 0,2.000047 1.999722,0 0,-2.000047 c -7.45e-4,-6.7e-4 8.18e-4,0 5.5e-5,0 l -1.997621,0 c -7.27e-4,0 -0.0015,-6.7e-4 -0.0022,0 z"
      id="pressed-bottomleft" />
   <path
