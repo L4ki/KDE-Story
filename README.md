@@ -511,3 +511,8 @@ Changelog: 13.08.2022.
 ----------------------
 
 Update widget: listitem.svg
+
+Changelog: 20.08.2022.
+----------------------
+
+Update icons: choqok_offline, choqok
