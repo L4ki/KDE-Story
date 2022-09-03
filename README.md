@@ -521,3 +521,9 @@ Changelog: 27.08.2022.
 ----------------------
 
 Update icon: vlc.svg
+
+Changelog: 03.09.2022.
+----------------------
+
+Added icons: kgpg.svg, kleopatra.svg
+
