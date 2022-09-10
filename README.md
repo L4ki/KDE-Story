@@ -527,3 +527,8 @@ Changelog: 03.09.2022.
 
 Added icons: kgpg.svg, kleopatra.svg
 
+Changelog: 10.09.2022.
+----------------------
+
+Update icon: video.svg
+
