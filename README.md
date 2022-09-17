@@ -532,3 +532,9 @@ Changelog: 10.09.2022.
 
 Update icon: video.svg
 
+
+Changelog: 17.09.2022.
+----------------------
+
+Update widget: background.svg
+
