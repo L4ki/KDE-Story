@@ -538,3 +538,9 @@ Changelog: 17.09.2022.
 
 Update widget: background.svg
 
+
+Changelog: 24.09.2022.
+----------------------
+
+Added new icons: dropbox.svg,kup.svg, kopete.svg
+
