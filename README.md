@@ -544,3 +544,8 @@ Changelog: 24.09.2022.
 
 Added new icons: dropbox.svg,kup.svg, kopete.svg
 
+Changelog: 01.10.2022.
+----------------------
+
+Added new widgets: toolbar.svg, timer.svg
+
