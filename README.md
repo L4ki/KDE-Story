@@ -549,3 +549,9 @@ Changelog: 01.10.2022.
 
 Added new widgets: toolbar.svg, timer.svg
 
+
+Changelog: 08.10.2022.
+----------------------
+
+Added new icons: mobile.svg, nepomuk.svg
+
