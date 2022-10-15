@@ -556,7 +556,7 @@ Changelog: 08.10.2022.
 Added new icons: mobile.svg, nepomuk.svg
 
 
-Changelog: 08.10.2022.
+Changelog: 015.10.2022.
 ----------------------
 
 Update icon: phone.svg
