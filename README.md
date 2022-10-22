@@ -571,7 +571,7 @@ Update icon: phone.svg
 
 Added icons: go.svg, qbittorrent
 
-Changelog: 15.10.2022.
+Changelog: 22.10.2022.
 ----------------------
 
 Update widgets: bar_meter_horizontal.svg, bar_meter_vertical.svg, scrollbar.svg
