@@ -576,3 +576,8 @@ Changelog: 22.10.2022.
 
 Update widgets: bar_meter_horizontal.svg, bar_meter_vertical.svg, scrollbar.svg
 
+Changelog: 29.10.2022.
+----------------------
+
+Update widget: busywidget.svg
+
