@@ -581,3 +581,8 @@ Changelog: 29.10.2022.
 
 Update widget: busywidget.svg
 
+Changelog: 05.11.2022.
+----------------------
+
+Added icons: tools.svg, face.svg
+
