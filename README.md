@@ -586,3 +586,8 @@ Changelog: 05.11.2022.
 
 Added icons: tools.svg, face.svg
 
+Changelog: 12.11.2022.
+----------------------
+
+Added icon: nulloy.svg
+
