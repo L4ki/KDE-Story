@@ -591,3 +591,8 @@ Changelog: 12.11.2022.
 
 Added icon: nulloy.svg
 
+
+Changelog: 19.11.2022.
+----------------------
+
+Added icons: knotes.svg, sirikali.svg
