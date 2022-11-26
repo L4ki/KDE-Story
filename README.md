@@ -596,3 +596,8 @@ Changelog: 19.11.2022.
 ----------------------
 
 Added icons: knotes.svg, sirikali.svg
+
+Changelog: 26.11.2022.
+----------------------
+
+Added icons: krusader_user, krusader_root
