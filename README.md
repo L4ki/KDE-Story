@@ -606,3 +606,11 @@ Changelog: 03.12.2022.
 ----------------------
 
 Added icon: mellowplayer.svg
+
+
+Changelog: 10.12.2022.
+----------------------
+
+Added icon: jami.svg
+
+Update icon: kalarm.svg
