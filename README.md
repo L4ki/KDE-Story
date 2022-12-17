@@ -614,3 +614,8 @@ Changelog: 10.12.2022.
 Added icon: jami.svg
 
 Update icon: kalarm.svg
+
+Changelog: 17.12.2022.
+----------------------
+
+Added icons: yakuake.svg, plasma.svg
