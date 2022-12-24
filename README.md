@@ -619,3 +619,8 @@ Changelog: 17.12.2022.
 ----------------------
 
 Added icons: yakuake.svg, plasma.svg
+
+Changelog: 24.12.2022.
+----------------------
+
+Added icons: internet.svg, office.svg
