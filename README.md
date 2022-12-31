@@ -624,3 +624,8 @@ Changelog: 24.12.2022.
 ----------------------
 
 Added icons: internet.svg, office.svg
+
+Changelog: 31.12.2022.
+----------------------
+
+Added icons: thunderbird.svg, touchpad.svg
