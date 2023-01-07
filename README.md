@@ -630,7 +630,7 @@ Changelog: 31.12.2022.
 
 Added icons: thunderbird.svg, touchpad.svg
 
-Changelog: 01.07.2023.
+Changelog: 07.01.2023.
 ----------------------
 
 Added icon: krfb.svg
