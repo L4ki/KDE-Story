@@ -639,3 +639,9 @@ Changelog: 15.01.2023.
 ----------------------
 
 Added icon: cadence.svg
+
+
+Changelog: 22.01.2023.
+----------------------
+
+Added icons: onboard.svg, zoom.svg
