@@ -645,3 +645,9 @@ Changelog: 22.01.2023.
 ----------------------
 
 Added icons: onboard.svg, zoom.svg
+
+
+Changelog: 29.01.2023.
+----------------------
+
+Added icon: lutris.svg
