@@ -651,3 +651,8 @@ Changelog: 29.01.2023.
 ----------------------
 
 Added icon: lutris.svg
+
+Changelog: 05.02.2023.
+----------------------
+
+Added icon: ring.svg, offline.svg
