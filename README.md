@@ -656,3 +656,10 @@ Changelog: 05.02.2023.
 ----------------------
 
 Added icon: ring.svg, offline.svg
+
+Changelog: 12.02.2023.
+----------------------
+
+Added icon: process.svg
+
+Update icon: ring.svg
