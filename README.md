@@ -663,3 +663,9 @@ Changelog: 12.02.2023.
 Added icon: process.svg
 
 Update icon: ring.svg
+
+Changelog: 19.02.2023.
+----------------------
+
+Added icon: corectrl.svg
+
