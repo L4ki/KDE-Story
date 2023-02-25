@@ -669,3 +669,8 @@ Changelog: 19.02.2023.
 
 Added icon: corectrl.svg
 
+Changelog: 26.02.2023.
+----------------------
+
+Added icon: desktop.svg
+
