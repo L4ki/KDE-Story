@@ -674,3 +674,9 @@ Changelog: 26.02.2023.
 
 Added icon: desktop.svg
 
+
+Changelog: 05.03.2023.
+----------------------
+
+Added icon: org.rnd2.cpupower_gui.svg
+
