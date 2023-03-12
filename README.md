@@ -680,3 +680,8 @@ Changelog: 05.03.2023.
 
 Added icon: org.rnd2.cpupower_gui.svg
 
+Changelog: 12.03.2023.
+----------------------
+
+Added icon: antimicro.svg
+
