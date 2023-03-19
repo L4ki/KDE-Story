@@ -709,3 +709,9 @@ Changelog: 12.03.2023.
 
 Added icon: antimicro.svg
 
+
+Changelog: 19.03.2023.
+----------------------
+
+Added icon: microphone.svg
+
