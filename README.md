@@ -715,3 +715,8 @@ Changelog: 19.03.2023.
 
 Added icon: microphone.svg
 
+Changelog: 26.03.2023.
+----------------------
+
+Added icon: quota.svg
+
