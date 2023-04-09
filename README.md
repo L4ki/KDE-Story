@@ -725,7 +725,7 @@ Changelog: 02.04.2023.
 
 Added icon: veracrypt.svg
 
-Changelog: 02.04.2023.
+Changelog: 09.04.2023.
 ----------------------
 
 Update icon: kdf.svg
