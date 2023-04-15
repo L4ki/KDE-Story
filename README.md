@@ -730,3 +730,8 @@ Changelog: 09.04.2023.
 
 Update icon: kdf.svg
 
+Changelog: 16.04.2023.
+----------------------
+
+Update widget: viewitem.svg
+
