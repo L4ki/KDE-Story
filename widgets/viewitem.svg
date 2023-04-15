@@ -5,7 +5,7 @@
    version="1.0"
    id="svg184"
    sodipodi:docname="viewitem.svg"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -36,12 +36,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="996"
+     inkscape:window-height="1000"
      id="namedview186"
      showgrid="false"
      inkscape:zoom="2.4792172"
-     inkscape:cx="133.91324"
-     inkscape:cy="98.418162"
+     inkscape:cx="114.95564"
+     inkscape:cy="98.619839"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -404,7 +404,7 @@
        inkscape:connector-curvature="0" />
   </g>
   <path
-     style="color:#3daee6;opacity:0.08;fill:#00b8b8;stroke-width:0.99999994;fill-opacity:1"
+     style="color:#3daee6;opacity:0.15;fill:#00b8b8;stroke-width:0.99999994;fill-opacity:1"
      inkscape:connector-curvature="0"
      d="m 105.00001,90.9999 v 48 h 48 v -48 z"
      class="ColorScheme-Highlight"
@@ -435,7 +435,7 @@
      id="selected+hover-top"
      style="opacity:1;fill:#3daee9;fill-opacity:1">
     <path
-       style="color:#3daee6;opacity:0.08;fill:#00b8b8;fill-opacity:1"
+       style="color:#3daee6;opacity:0.15;fill:#00b8b8;fill-opacity:1"
        inkscape:connector-curvature="0"
        id="path13-9"
        d="m 190.14,825.86 v 4 h 131 v -4 z"
@@ -446,7 +446,7 @@
      id="selected+hover-topright"
      style="opacity:1;fill:#3daee9;fill-opacity:1">
     <path
-       style="color:#3daee6;opacity:0.08;fill:#00b8b8;fill-opacity:1;stroke-width:0.666666"
+       style="color:#3daee6;opacity:0.15;fill:#00b8b8;fill-opacity:1;stroke-width:0.666666"
        d="m 322.47333,825.86 v 2.66666 H 325.14 c 0,-1.47733 -1.18934,-2.66666 -2.66667,-2.66666 z"
        id="path16-6"
        inkscape:connector-curvature="0" />
@@ -456,7 +456,7 @@
      id="selected+hover-right"
      style="opacity:1;fill:#3daee9;fill-opacity:1">
     <path
-       style="color:#3daee6;opacity:0.08;fill:#00b8b8;fill-opacity:1"
+       style="color:#3daee6;opacity:0.15;fill:#00b8b8;fill-opacity:1"
        inkscape:connector-curvature="0"
        id="path19-4"
        d="m 325.14,829.86 v 16 h -4 v -16 z"
@@ -467,7 +467,7 @@
      id="selected+hover-bottomright"
      style="opacity:1;fill:#3daee9;fill-opacity:1">
     <path
-       style="color:#3daee6;opacity:0.08;fill:#00b8b8;fill-opacity:1;stroke-width:3"
+       style="color:#3daee6;opacity:0.15;fill:#00b8b8;fill-opacity:1;stroke-width:3"
        d="m 77,51 v 12 c 6.648,0 12,-5.352 12,-12 z"
        transform="matrix(-0.33333333,0,0,-0.33333333,215.80667,846.86)"
        id="path149-8"
@@ -478,7 +478,7 @@
      id="selected+hover-bottom"
      style="opacity:1;fill:#3daee9;fill-opacity:1">
     <path
-       style="color:#3daee6;opacity:0.08;fill:#00b8b8;fill-opacity:1"
+       style="color:#3daee6;opacity:0.15;fill:#00b8b8;fill-opacity:1"
        inkscape:connector-curvature="0"
        id="path152-7"
        d="m 190.14,825.86 v 4 h 131 v -4 z"
