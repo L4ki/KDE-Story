@@ -735,3 +735,8 @@ Changelog: 16.04.2023.
 
 Update widget: viewitem.svg
 
+Changelog: 24.04.2023.
+----------------------
+
+Added icon: slc.svg
+
