@@ -740,3 +740,8 @@ Changelog: 24.04.2023.
 
 Added icon: slc.svg
 
+Changelog: 01.05.2023.
+----------------------
+
+Update widget: listitem.svg
+
