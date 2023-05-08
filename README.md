@@ -745,3 +745,8 @@ Changelog: 01.05.2023.
 
 Update widget: listitem.svg
 
+Changelog: 08.05.2023.
+----------------------
+
+Added icon: strawberry.svg
+
