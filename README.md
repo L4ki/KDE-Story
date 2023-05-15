@@ -750,3 +750,8 @@ Changelog: 08.05.2023.
 
 Added icon: strawberry.svg
 
+Changelog: 15.05.2023.
+----------------------
+
+Update widget: tooltip.svg (opaque, solid)
+
