@@ -755,3 +755,7 @@ Changelog: 15.05.2023.
 
 Update widget: tooltip.svg (opaque, solid)
 
+Changelog: 22.05.2023.
+----------------------
+
+Added icon: skype.svg
