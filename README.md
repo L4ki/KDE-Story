@@ -759,3 +759,9 @@ Changelog: 22.05.2023.
 ----------------------
 
 Added icon: skype.svg
+
+Changelog: 22.05.2023.
+----------------------
+
+Added icon: accessories.svg
+
