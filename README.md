@@ -765,3 +765,8 @@ Changelog: 29.05.2023.
 
 Added icon: accessories.svg
 
+Changelog: 05.06.2023.
+----------------------
+
+Added widget: menubaritem.svg
+
