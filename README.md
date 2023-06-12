@@ -770,3 +770,8 @@ Changelog: 05.06.2023.
 
 Added widget: menubaritem.svg
 
+Changelog: 12.06.2023.
+----------------------
+
+Added widget: plasmoidheading.svg
+
