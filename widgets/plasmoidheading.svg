@@ -4,7 +4,7 @@
    viewBox="0 0 173 56.000004"
    version="1.1"
    sodipodi:docname="plasmoidheading.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -35,11 +35,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="998"
      id="namedview39"
      showgrid="false"
      inkscape:zoom="2.9606035"
-     inkscape:cx="146.9295"
+     inkscape:cx="125.48117"
      inkscape:cy="39.687854"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -47,7 +47,9 @@
      inkscape:current-layer="svg2"
      inkscape:lockguides="false"
      inkscape:document-rotation="0"
-     inkscape:pagecheckerboard="0" />
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <style
      id="current-color-scheme"
      type="text/css" />
@@ -86,7 +88,7 @@
        id="rect3154"
        class="ColorScheme-Text"
        d="m 51,49 v 1 H 19 v -1 z"
-       style="color:#232629;opacity:1;fill:#006666;fill-opacity:1"
+       style="color:#232629;opacity:1;fill:#003d3d;fill-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
   <path
