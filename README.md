@@ -780,3 +780,7 @@ Changelog: 19.06.2023.
 
 Update: metadata.desktop
 
+Changelog: 26.06.2023.
+----------------------
+
+Added icons: fcitx.svg, ime.svg
