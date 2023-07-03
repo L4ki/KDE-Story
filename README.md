@@ -784,3 +784,8 @@ Changelog: 26.06.2023.
 ----------------------
 
 Added icons: fcitx.svg, ime.svg
+
+Changelog: 03.07.2023.
+----------------------
+
+Added widget: analog_meter.svg
