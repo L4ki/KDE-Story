@@ -795,3 +795,9 @@ Changelog: 10.07.2023.
 ----------------------
 
 Added widget: translucentbackground.svg
+
+
+Changelog: 17.07.2023.
+----------------------
+
+Added icon: audio.svg
