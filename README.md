@@ -801,3 +801,8 @@ Changelog: 17.07.2023.
 ----------------------
 
 Added icon: audio.svg
+
+Changelog: 24.07.2023.
+----------------------
+
+Added widget: radiobutton.svg
