@@ -811,3 +811,8 @@ Changelog: 31.07.2023.
 ----------------------
 
 Added widget: switch.svg
+
+Changelog: 07.08.2023.
+----------------------
+
+Added widget: monitor.svg
