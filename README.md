@@ -816,3 +816,8 @@ Changelog: 07.08.2023.
 ----------------------
 
 Added widget: monitor.svg
+
+Changelog: 07.08.2023.
+----------------------
+
+Added widget: picker.svg
