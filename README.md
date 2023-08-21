@@ -821,3 +821,8 @@ Changelog: 14.08.2023.
 ----------------------
 
 Added widget: picker.svg
+
+Changelog: 21.08.2023.
+----------------------
+
+Added widget: dragger.svg
