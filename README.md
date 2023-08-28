@@ -826,3 +826,8 @@ Changelog: 21.08.2023.
 ----------------------
 
 Added widget: dragger.svg
+
+Changelog: 28.08.2023.
+----------------------
+
+Added widget: frame.svg
