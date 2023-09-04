@@ -831,3 +831,9 @@ Changelog: 28.08.2023.
 ----------------------
 
 Added widget: frame.svg
+
+
+Changelog: 04.09.2023.
+----------------------
+
+Added icon: image.svg
