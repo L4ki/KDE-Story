@@ -837,3 +837,8 @@ Changelog: 04.09.2023.
 ----------------------
 
 Added icon: image.svg
+
+Changelog: 11.09.2023.
+----------------------
+
+Added: wind-arrows.svg
