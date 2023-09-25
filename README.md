@@ -847,3 +847,8 @@ Changelog: 18.09.2023.
 ----------------------
 
 Added widget: containment-controls.svg
+
+Changelog: 25.09.2023.
+----------------------
+
+Added widget: media-delegate.svg
