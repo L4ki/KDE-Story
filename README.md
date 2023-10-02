@@ -852,3 +852,8 @@ Changelog: 25.09.2023.
 ----------------------
 
 Added widget: media-delegate.svg
+
+Changelog: 02.10.2023.
+----------------------
+
+Added widget: configuration-icons.svg
