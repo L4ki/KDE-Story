@@ -857,3 +857,9 @@ Changelog: 02.10.2023.
 ----------------------
 
 Added widget: configuration-icons.svg
+
+
+Changelog: 09.10.2023.
+----------------------
+
+Added widget: notes.svg
