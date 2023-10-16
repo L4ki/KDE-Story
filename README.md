@@ -863,3 +863,8 @@ Changelog: 09.10.2023.
 ----------------------
 
 Added widget: notes.svg
+
+Changelog: 16.10.2023.
+----------------------
+
+Update widget: line.svg
