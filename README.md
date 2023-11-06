@@ -878,3 +878,8 @@ Changelog: 30.10.2023.
 ----------------------
 
 Added icon: search.svg
+
+Changelog: 06.11.2023.
+----------------------
+
+Added widget: actionbutton.svg
