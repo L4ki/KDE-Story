@@ -883,3 +883,8 @@ Changelog: 06.11.2023.
 ----------------------
 
 Added widget: actionbutton.svg
+
+Changelog: 13.11.2023.
+----------------------
+
+Added icon: widget.svg
