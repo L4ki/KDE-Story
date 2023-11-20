@@ -888,3 +888,9 @@ Changelog: 13.11.2023.
 ----------------------
 
 Added icon: widget.svg
+
+Changelog: 20.11.2023.
+----------------------
+
+Update widget: button.svg
+
