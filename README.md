@@ -899,3 +899,10 @@ Changelog: 27.11.2023.
 
 Update widget: clock.svg
 
+Changelog: 04.12.2023.
+----------------------
+
+Update widget: background.svg, panel-background.svg, tooltip.svg
+
+Update: background.svg (dialogs)
+
