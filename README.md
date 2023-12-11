@@ -906,3 +906,9 @@ Update widget: background.svg, panel-background.svg, tooltip.svg
 
 Update: background.svg (dialogs)
 
+
+Changelog: 11.12.2023.
+----------------------
+
+Update icon: start.svg
+
