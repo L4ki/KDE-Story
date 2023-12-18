@@ -912,3 +912,8 @@ Changelog: 11.12.2023.
 
 Update icon: start.svg
 
+Changelog: 18.12.2023.
+----------------------
+
+Added icon: telegram.svg
+
