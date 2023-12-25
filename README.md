@@ -917,3 +917,8 @@ Changelog: 18.12.2023.
 
 Added icon: telegram.svg
 
+
+Changelog: 25.12.2023.
+----------------------
+
+Update widget: switch.svg
