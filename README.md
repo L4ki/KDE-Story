@@ -922,3 +922,8 @@ Changelog: 25.12.2023.
 ----------------------
 
 Update widget: switch.svg
+
+Changelog: 01.01.2024.
+----------------------
+
+Update widget: radiobutton.svg
