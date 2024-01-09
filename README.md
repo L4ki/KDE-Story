@@ -927,3 +927,8 @@ Changelog: 01.01.2024.
 ----------------------
 
 Update widget: radiobutton.svg
+
+Changelog: 09.01.2024.
+----------------------
+
+Added icon: network.svg
