@@ -41,4 +41,4 @@ Screenshot:
 Changelog: 23.01.2024.
 ----------------------
 
-Updete widget:  busywidget.svg
+Added icon:  osd.svg
