@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="32"
    height="32"
    version="1.1"
    id="svg12"
    sodipodi:docname="printer.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata18">
     <rdf:RDF>
@@ -78,15 +78,6 @@
        gradientTransform="matrix(0.46153843,0,0,0.46153843,-210.22976,-242.23228)" />
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient4402"
-       xlink:href="#linearGradient4903"
-       y1="507.798"
-       y2="505.798"
-       gradientUnits="userSpaceOnUse"
-       x2="0"
-       gradientTransform="matrix(0.46153843,0,0,0.46153843,-210.22976,-242.23228)" />
-    <linearGradient
-       inkscape:collect="always"
        id="linearGradient4617-3"
        xlink:href="#linearGradient4303"
        y1="531.79797"
@@ -109,15 +100,6 @@
        xlink:href="#linearGradient4903"
        y1="505.798"
        y2="503.798"
-       gradientUnits="userSpaceOnUse"
-       x2="0"
-       gradientTransform="matrix(0.30769228,0,0,0.30769228,-118.3865,-153.54752)" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4402-6"
-       xlink:href="#linearGradient4903"
-       y1="507.798"
-       y2="505.798"
        gradientUnits="userSpaceOnUse"
        x2="0"
        gradientTransform="matrix(0.30769228,0,0,0.30769228,-118.3865,-153.54752)" />
@@ -150,23 +132,30 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="992"
      id="namedview14"
      showgrid="false"
      inkscape:zoom="6.9384855"
-     inkscape:cx="46.104512"
-     inkscape:cy="20.849749"
+     inkscape:cx="46.119575"
+     inkscape:cy="20.897932"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg12"
      inkscape:document-rotation="0"
-     inkscape:lockguides="false">
+     inkscape:lockguides="false"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid908"
        originx="-1e-06"
-       originy="-4.6325683e-08" />
+       originy="-4.6325683e-08"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="false" />
   </sodipodi:namedview>
   <g
      id="printer"
@@ -212,7 +201,7 @@
        x="-24.376694"
        y="-6.0133252"
        height="9.3210926"
-       style="fill:#abb4ba;fill-opacity:1;stroke-width:0.259267;stroke-linejoin:round"
+       style="fill:#eff0f1;fill-opacity:1;stroke-width:0.259267;stroke-linejoin:round"
        id="rect4868-5" />
     <rect
        width="14.76923"
@@ -238,7 +227,7 @@
        x="-23.453617"
        y="-4.9999247"
        height="5.5384612"
-       style="fill:url(#linearGradient4402);stroke-width:0.230769;stroke-linejoin:round"
+       style="fill:#d5dcdc;stroke-width:0.230769;stroke-linejoin:round;fill-opacity:1"
        id="rect4299-2-2-8" />
     <rect
        width="14.76923"
@@ -330,7 +319,7 @@
        x="5.5155382"
        y="4.1844049"
        height="5.9614406"
-       style="fill:#a9b2bc;fill-opacity:1;stroke-width:0.169295;stroke-linejoin:round"
+       style="fill:#eff0f1;fill-opacity:1;stroke-width:0.169295;stroke-linejoin:round"
        id="rect4868-5-0" />
     <rect
        width="9.8461533"
@@ -356,7 +345,7 @@
        x="6.1309228"
        y="4.6073847"
        height="3.6923075"
-       style="fill:url(#linearGradient4402-6);stroke-width:0.153846;stroke-linejoin:round"
+       style="fill:#d5dcdc;stroke-width:0.153846;stroke-linejoin:round;fill-opacity:1"
        id="rect4299-2-2-8-0" />
     <rect
        width="9.8461533"
