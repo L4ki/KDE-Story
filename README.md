@@ -38,7 +38,7 @@ Screenshots:
 ________________________________________________________________________________________________________________
 
 
-Changelog: 27.02.2024.
+Changelog: 05.03.2024.
 ----------------------
 
-Added widget: branding.svg
+Update widget: action-overlays.svg
