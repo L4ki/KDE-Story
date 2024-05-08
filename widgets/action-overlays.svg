@@ -28,7 +28,7 @@
   </metadata>
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#050505"
+     bordercolor="#000000"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -36,12 +36,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="994"
+     inkscape:window-height="996"
      id="namedview67"
      showgrid="false"
-     inkscape:zoom="6.9532166"
-     inkscape:cx="22.004205"
-     inkscape:cy="34.44449"
+     inkscape:zoom="4.9166666"
+     inkscape:cx="26.237288"
+     inkscape:cy="56.033899"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -49,7 +49,7 @@
      inkscape:lockguides="true"
      inkscape:pagecheckerboard="0"
      inkscape:showpageshadow="true"
-     inkscape:deskcolor="#cccccc" />
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2">
     <linearGradient
