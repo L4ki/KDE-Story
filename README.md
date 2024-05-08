@@ -38,8 +38,8 @@ Screenshots:
 ________________________________________________________________________________________________________________
 
 
-Changelog: 30.04.2024.
+Changelog: 08.05.2024.
 ----------------------
 
-Update widget: button.svg
+Update widget: action-overlays.svg
 
