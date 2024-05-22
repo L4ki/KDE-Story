@@ -38,8 +38,8 @@ Screenshots:
 ________________________________________________________________________________________________________________
 
 
-Changelog: 15.05.2024.
+Changelog: 22.05.2024.
 ----------------------
 
-Update widget: actionbutton.svg
+Update widget: menubaritem.svg
 
