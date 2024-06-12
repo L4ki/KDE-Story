@@ -41,5 +41,5 @@ ________________________________________________________________________________
 Changelog: 12.06.2024.
 ----------------------
 
-Update widget: margins-highlightsvg
+Update widget: margins-highlight.svg
 
