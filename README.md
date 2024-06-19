@@ -38,8 +38,8 @@ Screenshots:
 ________________________________________________________________________________________________________________
 
 
-Changelog: 12.06.2024.
+Changelog: 19.06.2024.
 ----------------------
 
-Update widget: margins-highlight.svg
+Update widget: background.svg
 
