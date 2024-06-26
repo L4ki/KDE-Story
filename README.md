@@ -38,8 +38,8 @@ Screenshots:
 ________________________________________________________________________________________________________________
 
 
-Changelog: 19.06.2024.
+Changelog: 26.06.2024.
 ----------------------
 
-Update widget: background.svg
+Update widget: bar_meter_horizontal.svg
 
