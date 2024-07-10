@@ -67,9 +67,9 @@
    inkscape:cy="11.418506"
    inkscape:cx="13.801981"
    inkscape:zoom="18.040889"
-   showgrid="true"
+   showgrid="false"
    id="namedview16"
-   inkscape:window-height="996"
+   inkscape:window-height="990"
    inkscape:window-width="1920"
    inkscape:pageshadow="2"
    inkscape:pageopacity="0"
@@ -81,7 +81,7 @@
    pagecolor="#ffffff"
    inkscape:pagecheckerboard="0"
    inkscape:showpageshadow="true"
-   inkscape:deskcolor="#d1d1d1"><inkscape:grid
+   inkscape:deskcolor="#cccccc"><inkscape:grid
      type="xygrid"
      id="grid535"
      originx="0"
@@ -89,7 +89,7 @@
      spacingy="1"
      spacingx="1"
      units="px"
-     visible="true" /></sodipodi:namedview>
+     visible="false" /></sodipodi:namedview>
 <g
    transform="matrix(0.01836386,0,0,0.01836386,3.8164079,3.8180385)"
    id="busywidget"><g
