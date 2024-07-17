@@ -38,8 +38,8 @@ Screenshots:
 ________________________________________________________________________________________________________________
 
 
-Changelog: 10.07.2024.
+Changelog: 17.07.2024.
 ----------------------
 
-Update widget: busywidget.svg
+Update widget: configuration-icons.svg
 
