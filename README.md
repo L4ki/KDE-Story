@@ -38,8 +38,8 @@ Screenshots:
 ________________________________________________________________________________________________________________
 
 
-Changelog: 17.07.2024.
+Changelog: 24.07.2024.
 ----------------------
 
-Update widget: configuration-icons.svg
+Update widget: listitem.svg
 
