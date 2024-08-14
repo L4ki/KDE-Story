@@ -2,7 +2,7 @@
 <svg
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    width="20"
    height="20"
    sodipodi:docname="lineedit.svg"
@@ -19,7 +19,7 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
-     inkscape:window-height="1013"
+     inkscape:window-height="996"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -30,9 +30,9 @@
      bordercolor="#000000"
      pagecolor="#ffffff"
      id="base"
-     inkscape:zoom="22.627417"
-     inkscape:cx="7.6897862"
-     inkscape:cy="58.358406"
+     inkscape:zoom="8"
+     inkscape:cx="7.5"
+     inkscape:cy="32.4375"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
@@ -52,18 +52,20 @@
      fit-margin-bottom="0"
      inkscape:document-rotation="0"
      inkscape:pagecheckerboard="0"
-     inkscape:showpageshadow="false">
+     inkscape:showpageshadow="true"
+     inkscape:deskcolor="#cccccc">
     <inkscape:grid
        type="xygrid"
        id="grid5592"
-       visible="true"
+       visible="false"
        enabled="true"
        empspacing="5"
        snapvisiblegridlinesonly="true"
        originx="-25"
        originy="-37"
        spacingx="1"
-       spacingy="1" />
+       spacingy="1"
+       units="px" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -408,7 +410,10 @@
          id="feComposite3778"
          k2="1"
          operator="arithmetic"
-         result="result3" />
+         result="result3"
+         k1="0"
+         k3="0"
+         k4="0" />
       <feComposite
          in2="SourceGraphic"
          id="feComposite3780"
@@ -439,7 +444,10 @@
          id="feComposite3788"
          k2="1"
          operator="arithmetic"
-         result="result3" />
+         result="result3"
+         k1="0"
+         k3="0"
+         k4="0" />
       <feComposite
          in2="SourceGraphic"
          id="feComposite3790"
@@ -470,7 +478,10 @@
          id="feComposite3798"
          k2="1"
          operator="arithmetic"
-         result="result3" />
+         result="result3"
+         k1="0"
+         k3="0"
+         k4="0" />
       <feComposite
          in2="SourceGraphic"
          id="feComposite3800"
@@ -501,7 +512,10 @@
          id="feComposite3808"
          k2="1"
          operator="arithmetic"
-         result="result3" />
+         result="result3"
+         k1="0"
+         k3="0"
+         k4="0" />
       <feComposite
          in2="SourceGraphic"
          id="feComposite3810"
@@ -532,7 +546,10 @@
          id="feComposite3818"
          k2="1"
          operator="arithmetic"
-         result="result3" />
+         result="result3"
+         k1="0"
+         k3="0"
+         k4="0" />
       <feComposite
          in2="SourceGraphic"
          id="feComposite3820"
@@ -563,7 +580,10 @@
          id="feComposite3828"
          k2="1"
          operator="arithmetic"
-         result="result3" />
+         result="result3"
+         k1="0"
+         k3="0"
+         k4="0" />
       <feComposite
          in2="SourceGraphic"
          id="feComposite3830"
@@ -594,7 +614,10 @@
          id="feComposite3838"
          k2="1"
          operator="arithmetic"
-         result="result3" />
+         result="result3"
+         k1="0"
+         k3="0"
+         k4="0" />
       <feComposite
          in2="SourceGraphic"
          id="feComposite3840"
@@ -625,7 +648,10 @@
          id="feComposite3848"
          k2="1"
          operator="arithmetic"
-         result="result3" />
+         result="result3"
+         k1="0"
+         k3="0"
+         k4="0" />
       <feComposite
          in2="SourceGraphic"
          id="feComposite3850"
@@ -656,7 +682,10 @@
          id="feComposite3858"
          k2="1"
          operator="arithmetic"
-         result="result3" />
+         result="result3"
+         k1="0"
+         k3="0"
+         k4="0" />
       <feComposite
          in2="SourceGraphic"
          id="feComposite3860"
@@ -687,7 +716,10 @@
          id="feComposite3868"
          k2="1"
          operator="arithmetic"
-         result="result3" />
+         result="result3"
+         k1="0"
+         k3="0"
+         k4="0" />
       <feComposite
          in2="SourceGraphic"
          id="feComposite3870"
@@ -718,7 +750,10 @@
          id="feComposite3878"
          k2="1"
          operator="arithmetic"
-         result="result3" />
+         result="result3"
+         k1="0"
+         k3="0"
+         k4="0" />
       <feComposite
          in2="SourceGraphic"
          id="feComposite3880"
@@ -749,7 +784,10 @@
          id="feComposite3888"
          k2="1"
          operator="arithmetic"
-         result="result3" />
+         result="result3"
+         k1="0"
+         k3="0"
+         k4="0" />
       <feComposite
          in2="SourceGraphic"
          id="feComposite3890"
@@ -780,7 +818,10 @@
          id="feComposite3898"
          k2="1"
          operator="arithmetic"
-         result="result3" />
+         result="result3"
+         k1="0"
+         k3="0"
+         k4="0" />
       <feComposite
          in2="SourceGraphic"
          id="feComposite3900"
