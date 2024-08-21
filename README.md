@@ -38,8 +38,8 @@ Screenshots:
 ________________________________________________________________________________________________________________
 
 
-Changelog: 14.08.2024.
+Changelog: 21.08.2024.
 ----------------------
 
-Update widget: lineedit.svg
+Update widget: panel-background.svg
 
