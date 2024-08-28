@@ -38,8 +38,8 @@ Screenshots:
 ________________________________________________________________________________________________________________
 
 
-Changelog: 21.08.2024.
+Changelog: 28.08.2024.
 ----------------------
 
-Update widget: panel-background.svg
+Update widget: checkmarks.svg
 
