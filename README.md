@@ -38,8 +38,8 @@ Screenshots:
 ________________________________________________________________________________________________________________
 
 
-Changelog: 11.09.2024.
+Changelog: 18.09.2024.
 ----------------------
 
-Update widget: lineedit.svg
+Update widget: plasmoidheading.svg
 
