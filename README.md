@@ -38,8 +38,8 @@ Screenshots:
 ________________________________________________________________________________________________________________
 
 
-Changelog: 18.09.2024.
+Changelog: 25.09.2024.
 ----------------------
 
-Update widget: plasmoidheading.svg
+Update widget: switch.svg
 
