@@ -38,8 +38,8 @@ Screenshots:
 ________________________________________________________________________________________________________________
 
 
-Changelog: 10.10.2024.
+Changelog: 17.10.2024.
 ----------------------
 
-Update widget: actionbutton.svg
+Update widget: containment-controls.svg
 
