@@ -38,8 +38,8 @@ Screenshots:
 ________________________________________________________________________________________________________________
 
 
-Changelog: 17.10.2024.
+Changelog: 24.10.2024.
 ----------------------
 
-Update widget: containment-controls.svg
+Update widget: line.svg
 
