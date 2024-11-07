@@ -38,8 +38,8 @@ Screenshots:
 ________________________________________________________________________________________________________________
 
 
-Changelog: 31.10.2024.
+Changelog: 07.11.2024.
 ----------------------
 
-Update widget: clock.svg
+Update widget: translucentbackground.svg
 
