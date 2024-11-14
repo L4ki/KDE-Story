@@ -38,8 +38,8 @@ Screenshots:
 ________________________________________________________________________________________________________________
 
 
-Changelog: 07.11.2024.
+Changelog: 14.11.2024.
 ----------------------
 
-Update widget: translucentbackground.svg
+Update widget: arrows.svg
 
