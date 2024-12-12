@@ -38,8 +38,8 @@ Screenshots:
 ________________________________________________________________________________________________________________
 
 
-Changelog: 05.12.2024.
+Changelog: 12.12.2024.
 ----------------------
 
-Update widget: scrollwidget.svg
+Update widget: plot-background.svg
 
