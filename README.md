@@ -38,8 +38,8 @@ Screenshots:
 ________________________________________________________________________________________________________________
 
 
-Changelog: 12.12.2024.
+Changelog: 19.12.2024.
 ----------------------
 
-Update widget: plot-background.svg
+Update widget: picker.svg
 
